@@ -1,0 +1,30 @@
+# 현재 smartcity 환경에서 확인한 재현용 버전 (Python 3.10.16)
+numpy==2.2.5
+pandas==2.2.3
+scipy==1.15.3
+statsmodels==0.14.5
+matplotlib==3.10.3
+seaborn==0.13.2
+
+# 공간자료
+geopandas==1.0.1
+shapely==2.1.0
+pyproj==3.7.1
+pyogrio==0.11.0
+folium==0.19.6
+contextily==1.6.2
+
+# 노트북·파일 입출력·API·애니메이션
+jupyter==1.1.1
+ipykernel==6.29.5
+nbformat==5.10.4
+openpyxl==3.1.5
+pillow==11.2.1
+requests==2.32.3
+
+# GTX-B·C 감소위험 분류모형
+scikit-learn==1.6.1
+
+# analysis/15의 비교모형을 다시 실행할 때만 필요하다.
+# 현재 smartcity 환경에는 설치되어 있지 않으므로 필요 시 별도로 설치한다.
+# xgboost>=2.0

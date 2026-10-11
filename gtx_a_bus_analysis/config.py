@@ -48,6 +48,7 @@ POPULATION_CHANGE_PATH = OUT1 / "11_20~50대인구변화_2024_2025_250m격자.cs
 LAND_PRICE_2024_PATH = OUT1 / "12_공시지가_2024_250m격자.csv"
 TRAVEL_TIME_2024_PATH = OUT1 / "13_광역버스통행시간_2024_종일_셀노선.csv"
 TIME_BAND_CELL_PATH = OUT1 / "14_시간대별_승차인원_셀.csv"
+TRAVEL_TIME_2024_CELL_PATH = OUT1 / "15_광역버스통행시간_2024_종일_셀.csv"
 
 # analysis에서 생성하는 지도·표 등은 outputs에 저장
 OUT2 = PROJECT_DIR / "outputs"
