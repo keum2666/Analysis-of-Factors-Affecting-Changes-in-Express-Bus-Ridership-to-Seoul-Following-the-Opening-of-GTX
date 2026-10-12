@@ -1,0 +1,5 @@
+﻿기준일,자료,행수,승차정류장명_매칭률,하차정류장명_매칭률,출력파일
+20241017,raw,8129,0.9992619018329438,0.9984007873047115,/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/github_2026-UROP/gtx_bc_bus_collection/raw/transport_card/gtx_c_transport_card_20241017_raw_with_stop_names.csv
+20241017,seoul_od,742,1.0,1.0,/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/github_2026-UROP/gtx_bc_bus_collection/processed/transport_card/gtx_c_transport_card_20241017_seoul_od_with_stop_names.csv
+20251106,raw,7612,1.0,0.9993431424067262,/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/github_2026-UROP/gtx_bc_bus_collection/raw/transport_card/gtx_c_transport_card_20251106_raw_with_stop_names.csv
+20251106,seoul_od,743,1.0,1.0,/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/github_2026-UROP/gtx_bc_bus_collection/processed/transport_card/gtx_c_transport_card_20251106_seoul_od_with_stop_names.csv
