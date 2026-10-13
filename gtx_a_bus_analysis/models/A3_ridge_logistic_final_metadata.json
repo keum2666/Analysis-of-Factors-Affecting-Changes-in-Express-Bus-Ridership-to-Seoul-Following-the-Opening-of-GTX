@@ -1,0 +1,95 @@
+{
+  "model_name": "A3 Ridge Logistic Regression",
+  "features": [
+    "pre_share_pct",
+    "log1p_board_2024",
+    "walk_min",
+    "competing_share"
+  ],
+  "feature_labels": {
+    "pre_share_pct": "개통 전 역 권역 내 수요 비중(%)",
+    "log1p_board_2024": "log(1+개통 전 승차인원)",
+    "walk_min": "GTX역 보행시간(분)",
+    "competing_share": "GTX 경쟁 목적지 비율(%)"
+  },
+  "selected_C": 3.1622776601683795,
+  "classification_threshold": 0.5,
+  "target_definition": "역 권역 내 개통 후 수요 비중 > 개통 전 수요 비중이면 1, 아니면 0",
+  "training_scope": "GTX-A 운정중앙·킨텍스·대곡 250m 격자 126개",
+  "intended_use": "GTX-B·C 격자의 상대적 수요 비중 확대 예측점수 및 권역 내 순위 산출",
+  "gtx_bc_feature_mapping": {
+    "pre_share_pct": "GTX-B·C 적용 기준일의 역 권역 내 개통 전 수요 비중(%)",
+    "log1p_board_2024": "GTX-B·C 적용 기준일의 개통 전 승차인원에 log(1+x) 적용",
+    "walk_min": "GTX-B·C 예정역까지의 보행시간(분)",
+    "competing_share": "GTX-B·C 공통 정의로 산출한 경쟁 목적지 비율(%)"
+  },
+  "created_at": "2026-10-13T17:31:26+09:00",
+  "sample_count": 126,
+  "class_counts": {
+    "0": 60,
+    "1": 66
+  },
+  "station_counts": {
+    "운정중앙": 63,
+    "대곡": 37,
+    "킨텍스": 26
+  },
+  "best_internal_loso_roc_auc": 0.7293024086020777,
+  "feature_ranges": {
+    "pre_share_pct": {
+      "min": 0.015405946695424435,
+      "max": 22.692601067887107,
+      "median": 1.0784162686797103
+    },
+    "log1p_board_2024": {
+      "min": 0.6931471805599453,
+      "max": 7.596392304064196,
+      "median": 4.166635176627654
+    },
+    "walk_min": {
+      "min": 3.553333333333333,
+      "max": 259.17833333333334,
+      "median": 47.60416666666667
+    },
+    "competing_share": {
+      "min": 0.0,
+      "max": 100.0,
+      "median": 0.0
+    }
+  },
+  "imputer_statistics": {
+    "pre_share_pct": 1.0784162686797103,
+    "log1p_board_2024": 4.166635176627654,
+    "walk_min": 47.60416666666667,
+    "competing_share": 0.0
+  },
+  "scaler_mean": {
+    "pre_share_pct": 2.3809523809523805,
+    "log1p_board_2024": 3.870298607218911,
+    "walk_min": 65.92509259259259,
+    "competing_share": 10.871735622182687
+  },
+  "scaler_scale": {
+    "pre_share_pct": 3.8942868201037344,
+    "log1p_board_2024": 1.5384186263883974,
+    "walk_min": 50.61644139743631,
+    "competing_share": 19.392892146161024
+  },
+  "standardized_coefficients": {
+    "pre_share_pct": 0.5750712946109451,
+    "log1p_board_2024": -0.8383499050438521,
+    "walk_min": 0.32915763360470174,
+    "competing_share": -0.5240273100394384
+  },
+  "intercept": 0.13115472364321015,
+  "software": {
+    "python": "3.10.16",
+    "numpy": "2.2.5",
+    "pandas": "2.2.3",
+    "scikit_learn": "1.6.1",
+    "joblib": "1.6.0"
+  },
+  "model_sha256": "dee9fca40e54ab8d100850e2cbbc7fd4f17a7fd07b02806ede0fed4f589d0c99",
+  "c_selection_file": "A3_ridge_logistic_C_selection.csv",
+  "methodological_note": "A3 변수 구성은 중첩 LOSO 검증 후 고정했다. 저장 모형의 C는 126개 전체 자료의 내부 LOSO로 선택했으며, best_internal_loso_roc_auc는 독립 외부 성능이 아니다."
+}

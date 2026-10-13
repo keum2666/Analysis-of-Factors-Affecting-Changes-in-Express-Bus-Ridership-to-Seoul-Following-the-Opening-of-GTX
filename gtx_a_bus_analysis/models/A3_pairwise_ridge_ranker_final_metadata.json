@@ -1,0 +1,19 @@
+{
+  "created_at": "2026-10-13T18:22:17+09:00",
+  "training_cells": 126,
+  "training_pairs_bidirectional": 2992,
+  "stations": [
+    "대곡",
+    "운정중앙",
+    "킨텍스"
+  ],
+  "features": [
+    "pre_share_pct",
+    "log1p_board_2024",
+    "walk_min",
+    "competing_share"
+  ],
+  "selected_c": 31.622776601683793,
+  "full_data_loso_mean_auc_for_c_selection": 0.7310765504023751,
+  "warning": "C 선택값은 전체 GTX-A 자료의 LOSO 결과이다. 독립 일반화 성능은 12-8 외부 중첩 LOSO 결과로 보고하며, score를 실제 확률로 해석하지 않는다."
+}
