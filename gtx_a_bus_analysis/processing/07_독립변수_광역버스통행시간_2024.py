@@ -21,6 +21,7 @@ from config import (  # noqa: E402
     GYEONGGI,
     RAW_PATHS,
     TRAVEL_TIME_2024_PATH,
+    TRAVEL_TIME_2024_CELL_PATH,
     read_csv,
     stop_to_cell_map,
 )
@@ -92,8 +93,30 @@ def main() -> None:
     result = pd.DataFrame(rows)
     result["2024년 중앙값 통행시간(10분 단위)"] = result["2024년 승객가중 중앙값 통행시간(분)"] / 10
     result.to_csv(TRAVEL_TIME_2024_PATH, index=False, encoding="utf-8-sig")
+
+    # 셀 단위 분석용: 노선별 중앙값을 다시 평균하지 않고 원자료 전체에서 직접 계산한다.
+    cell_rows = []
+    for cell_id, group in trips.groupby("셀 ID", sort=True):
+        weights = group["승객 수"]
+        duration = group["통행시간(분)"]
+        cell_rows.append({
+            "셀 ID": int(cell_id),
+            "2024년 셀 승객가중 평균 통행시간(분)": float(np.average(duration, weights=weights)),
+            "2024년 셀 승객가중 중앙값 통행시간(분)": weighted_median(duration, weights),
+            "2024년 셀 유효 통행 승객 수": float(weights.sum()),
+            "2024년 셀 유효 통행 원자료 행 수": int(len(group)),
+        })
+    cell_result = pd.DataFrame(cell_rows)
+    cell_result["2024년 셀 평균 통행시간(10분 단위)"] = (
+        cell_result["2024년 셀 승객가중 평균 통행시간(분)"] / 10
+    )
+    cell_result["2024년 셀 중앙값 통행시간(10분 단위)"] = (
+        cell_result["2024년 셀 승객가중 중앙값 통행시간(분)"] / 10
+    )
+    cell_result.to_csv(TRAVEL_TIME_2024_CELL_PATH, index=False, encoding="utf-8-sig")
     print(f"저장: {TRAVEL_TIME_2024_PATH}")
     print(f"셀×노선: {len(result)}개 / 셀: {result['셀 ID'].nunique()}개 / 노선: {result['노선'].nunique()}개")
+    print(f"셀 단위 저장: {TRAVEL_TIME_2024_CELL_PATH} / {len(cell_result)}개")
     print(result.describe(include="all").to_string())
 
 

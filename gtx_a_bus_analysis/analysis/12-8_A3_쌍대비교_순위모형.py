@@ -157,6 +157,18 @@ def main() -> None:
         best_c, inner_auc = choose_c_inner_loso(train)
         pair_x, pair_y = make_pairs(train)
         model = make_model(best_c).fit(pair_x, pair_y)
+        train_scores = cell_scores(model, train)
+        train_pair_loss_parts = []
+        train_pair_count = 0
+        for _, train_station in train.groupby("nearest_station", sort=False):
+            part_loss, part_count = pairwise_log_loss(
+                train_station, train_scores[train.index.get_indexer(train_station.index)]
+            )
+            train_pair_loss_parts.append((part_loss, part_count))
+            train_pair_count += part_count
+        train_pair_loss = sum(
+            loss * count for loss, count in train_pair_loss_parts
+        ) / train_pair_count
         scores = cell_scores(model, test)
         oof_score.loc[test.index] = scores
 
@@ -177,7 +189,9 @@ def main() -> None:
                 "내부 LOSO 평균 AUC": inner_auc,
                 "외부 ROC-AUC": station_auc,
                 "외부 비교쌍 수": validation_pairs,
+                "학습 Pairwise Log Loss": train_pair_loss,
                 "Pairwise Log Loss": station_pair_loss,
+                "Loss 차이(외부-학습)": station_pair_loss - train_pair_loss,
             }
         )
         top_rows.extend(precision_lift_rows(test, scores))
