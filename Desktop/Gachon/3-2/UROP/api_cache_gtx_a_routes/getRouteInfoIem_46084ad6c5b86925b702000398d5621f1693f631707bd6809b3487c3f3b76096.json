@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "테크노마트앞.강변역(D)", "endvehicletime": "0020", "intervalsattime": 30, "intervalsuntime": 30, "intervaltime": 15, "routeid": "GGB222000049", "routeno": 1660, "routetp": "직행좌석버스", "startnodenm": "도곡리차고지대기(미정차)", "startvehicletime": "0500"}}}}}

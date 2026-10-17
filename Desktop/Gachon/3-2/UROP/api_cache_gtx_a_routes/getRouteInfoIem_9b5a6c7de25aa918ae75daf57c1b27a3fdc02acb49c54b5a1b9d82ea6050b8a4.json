@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역(중)", "endvehicletime": 2140, "intervalsattime": 60, "intervalsuntime": 60, "intervaltime": 40, "routeid": "GGB233000140", "routeno": 1002, "routetp": "직행좌석버스", "startnodenm": "전곡항.서해랑케이블카", "startvehicletime": "0430"}}}}}

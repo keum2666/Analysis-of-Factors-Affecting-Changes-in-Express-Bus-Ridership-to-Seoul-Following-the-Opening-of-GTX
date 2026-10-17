@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역(중)", "endvehicletime": "0100", "intervalsattime": 20, "intervalsuntime": 20, "intervaltime": 2, "routeid": "GGB233000031", "routeno": 7770, "routetp": "직행좌석버스", "startnodenm": "서둔동차고지대기(미정차)", "startvehicletime": "0430"}}}}}

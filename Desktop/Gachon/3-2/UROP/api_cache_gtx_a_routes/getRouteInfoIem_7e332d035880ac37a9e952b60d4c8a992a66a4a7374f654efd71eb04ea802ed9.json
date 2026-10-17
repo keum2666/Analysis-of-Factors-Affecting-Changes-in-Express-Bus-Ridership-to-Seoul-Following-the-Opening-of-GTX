@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역4번출구", "endvehicletime": 2330, "intervalsattime": 14, "intervalsuntime": 14, "intervaltime": 10, "routeid": "GGB213000024", "routeno": 8507, "routetp": "직행좌석버스", "startnodenm": "오리서원.충현중학교.광휘고등학교", "startvehicletime": "0500"}}}}}

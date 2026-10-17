@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역나라빌딩앞", "endvehicletime": "0100", "intervalsattime": 17, "intervalsuntime": 17, "intervaltime": 12, "routeid": "GGB200000104", "routeno": 3000, "routetp": "직행좌석버스", "startnodenm": "호매실스타힐스.수원여대입구", "startvehicletime": "0430"}}}}}

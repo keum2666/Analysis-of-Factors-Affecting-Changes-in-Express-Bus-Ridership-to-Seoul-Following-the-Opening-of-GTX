@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "안양역", "endvehicletime": 2330, "intervalsattime": 20, "intervalsuntime": 20, "intervaltime": 5, "routeid": "GGB204000057", "routeno": 3330, "routetp": "직행좌석버스", "startnodenm": "도촌동9단지앞", "startvehicletime": "0450"}}}}}

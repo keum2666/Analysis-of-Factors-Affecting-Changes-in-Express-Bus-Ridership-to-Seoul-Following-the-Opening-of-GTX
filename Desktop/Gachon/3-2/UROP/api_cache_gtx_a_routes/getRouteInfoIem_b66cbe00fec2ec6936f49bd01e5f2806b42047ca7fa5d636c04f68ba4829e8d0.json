@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "별내역6번.7번출구.주을래마을", "endvehicletime": 2050, "intervalsattime": 100, "intervalsuntime": 100, "intervaltime": 60, "routeid": "GGB236000264", "routeno": 3700, "routetp": "직행좌석버스", "startnodenm": "도평리", "startvehicletime": "0520"}}}}}

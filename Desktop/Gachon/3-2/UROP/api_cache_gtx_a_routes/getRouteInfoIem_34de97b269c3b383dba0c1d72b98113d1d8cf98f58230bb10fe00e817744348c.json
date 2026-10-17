@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "서울역버스환승센터(6번승강장)(중)", "endvehicletime": "0800", "intervaltime": 20, "routeid": "GGB200000297", "routeno": "8800예약", "routetp": "직행좌석버스", "startnodenm": "구법원사거리", "startvehicletime": "0610"}}}}}

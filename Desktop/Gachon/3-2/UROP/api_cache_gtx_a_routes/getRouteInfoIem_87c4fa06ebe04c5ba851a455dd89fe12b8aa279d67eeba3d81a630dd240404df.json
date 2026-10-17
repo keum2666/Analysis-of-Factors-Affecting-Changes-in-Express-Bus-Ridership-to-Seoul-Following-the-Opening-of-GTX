@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신분당선강남역(중)", "endvehicletime": 2300, "intervalsattime": 12, "intervalsuntime": 12, "intervaltime": 1, "routeid": "GGB204000081", "routeno": 1151, "routetp": "직행좌석버스", "startnodenm": "오산리종점", "startvehicletime": "0520"}}}}}

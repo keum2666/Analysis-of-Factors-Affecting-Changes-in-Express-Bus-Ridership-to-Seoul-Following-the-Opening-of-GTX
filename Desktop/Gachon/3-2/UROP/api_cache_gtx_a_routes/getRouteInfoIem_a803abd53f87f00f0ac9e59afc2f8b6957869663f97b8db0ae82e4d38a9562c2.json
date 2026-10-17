@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "양재역커피빈앞", "endvehicletime": 2230, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 20, "routeid": "GGB233000328", "routeno": "G1003", "routetp": "직행좌석버스", "startnodenm": "현대기아연구소", "startvehicletime": "0530"}}}}}

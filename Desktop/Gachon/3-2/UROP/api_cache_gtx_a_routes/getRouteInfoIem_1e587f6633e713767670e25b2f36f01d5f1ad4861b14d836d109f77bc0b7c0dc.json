@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "테크노마트앞.강변역(D)", "endvehicletime": 1810, "intervaltime": 20, "routeid": "GGB234001204", "routeno": "1113-11", "routetp": "직행좌석버스", "startnodenm": "동원대학교", "startvehicletime": 1730}}}}}

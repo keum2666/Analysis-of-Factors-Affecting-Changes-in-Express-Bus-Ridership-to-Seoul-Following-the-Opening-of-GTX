@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역서초현대타워앞", "endvehicletime": "0550", "intervalsattime": 0, "intervalsuntime": 0, "intervaltime": 0, "routeid": "GGB232000149", "routeno": "M6427(예약)", "routetp": "광역급행버스", "startnodenm": "양곡터미널", "startvehicletime": "0550"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "인천공항3층출국장(T2)", "endvehicletime": 2000, "intervalsattime": 100, "intervalsuntime": 100, "intervaltime": 60, "routeid": "GGB232000099", "routeno": 9000, "routetp": "직행좌석버스", "startnodenm": "구터미널종점", "startvehicletime": "0415"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실광역환승센터", "endvehicletime": 2240, "intervalsattime": 20, "intervalsuntime": 20, "intervaltime": 10, "routeid": "GGB236000222", "routeno": 3006, "routetp": "직행좌석버스", "startnodenm": "경복대.포천캠퍼스입구", "startvehicletime": "0430"}}}}}

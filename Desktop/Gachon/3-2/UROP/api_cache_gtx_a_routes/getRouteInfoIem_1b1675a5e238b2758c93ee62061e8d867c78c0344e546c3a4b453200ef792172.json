@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "야탑역.종합버스터미널(광역버스)", "endvehicletime": 2200, "intervalsattime": 70, "intervalsuntime": 70, "intervaltime": 40, "routeid": "GGB234001730", "routeno": 8201, "routetp": "직행좌석버스", "startnodenm": "안성종합버스터미널", "startvehicletime": "0530"}}}}}

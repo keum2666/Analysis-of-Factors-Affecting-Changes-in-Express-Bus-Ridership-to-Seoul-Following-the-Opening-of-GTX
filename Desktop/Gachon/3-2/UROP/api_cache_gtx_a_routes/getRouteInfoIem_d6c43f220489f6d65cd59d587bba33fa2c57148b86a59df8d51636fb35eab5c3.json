@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역4번출구", "intervalsattime": 20, "intervalsuntime": 20, "intervaltime": 10, "routeid": "GGB200000112", "routeno": 7000, "routetp": "직행좌석버스", "startnodenm": "사색의광장", "startvehicletime": "0530"}}}}}

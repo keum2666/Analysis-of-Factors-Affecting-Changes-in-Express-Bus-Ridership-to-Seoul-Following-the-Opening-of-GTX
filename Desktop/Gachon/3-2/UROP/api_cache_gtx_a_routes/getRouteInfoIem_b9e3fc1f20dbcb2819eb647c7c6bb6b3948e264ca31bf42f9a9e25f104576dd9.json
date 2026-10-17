@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "양재역.양재1동민원분소", "endvehicletime": 2320, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 15, "routeid": "GGB229000111", "routeno": "G7426", "routetp": "직행좌석버스", "startnodenm": "당하동", "startvehicletime": "0430"}}}}}

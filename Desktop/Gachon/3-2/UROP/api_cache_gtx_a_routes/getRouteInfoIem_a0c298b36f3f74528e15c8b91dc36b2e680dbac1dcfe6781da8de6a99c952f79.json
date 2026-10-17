@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "세이브존.성남시박물관", "endvehicletime": 2250, "intervalsattime": 19, "intervalsuntime": 19, "intervaltime": 10, "routeid": "GGB200000120", "routeno": 2007, "routetp": "직행좌석버스", "startnodenm": "오목천차고지(미정차)", "startvehicletime": "0430"}}}}}

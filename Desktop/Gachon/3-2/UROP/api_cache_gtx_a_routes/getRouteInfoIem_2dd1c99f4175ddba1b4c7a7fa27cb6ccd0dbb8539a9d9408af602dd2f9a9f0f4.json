@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "영등포소방서.타임스퀘어", "endvehicletime": 1859, "intervalsattime": 0, "intervalsuntime": 0, "intervaltime": 74, "routeid": "GGB229000290", "routeno": "9030-1", "routetp": "직행좌석버스", "startnodenm": "교하차고지", "startvehicletime": "0530"}}}}}

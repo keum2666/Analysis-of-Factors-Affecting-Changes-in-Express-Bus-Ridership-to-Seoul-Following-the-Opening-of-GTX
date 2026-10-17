@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "문정로데오거리입구(중)", "endvehicletime": 2200, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 40, "routeid": "GGB231000146", "routeno": 4305, "routetp": "직행좌석버스", "startnodenm": "안성종합버스터미널", "startvehicletime": "0500"}}}}}

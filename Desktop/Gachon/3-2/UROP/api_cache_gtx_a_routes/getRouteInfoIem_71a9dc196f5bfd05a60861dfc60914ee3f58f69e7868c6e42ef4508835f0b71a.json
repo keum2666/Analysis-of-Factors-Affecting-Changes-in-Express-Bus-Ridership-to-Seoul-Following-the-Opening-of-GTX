@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역도시에빛", "endvehicletime": 2240, "intervalsattime": 65, "intervalsuntime": 65, "intervaltime": 10, "routeid": "GGB234001251", "routeno": 1311, "routetp": "직행좌석버스", "startnodenm": "한라.이림아파트", "startvehicletime": "0510"}}}}}

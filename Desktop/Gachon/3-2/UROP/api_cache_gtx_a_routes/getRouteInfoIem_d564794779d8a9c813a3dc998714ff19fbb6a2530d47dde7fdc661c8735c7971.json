@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "명동입구", "endvehicletime": "0650", "intervaltime": 20, "routeid": "GGB228000404", "routeno": "P9211(출근)", "routetp": "직행좌석버스", "startnodenm": "마북동.현대연수원.한국미술관", "startvehicletime": "0640"}}}}}

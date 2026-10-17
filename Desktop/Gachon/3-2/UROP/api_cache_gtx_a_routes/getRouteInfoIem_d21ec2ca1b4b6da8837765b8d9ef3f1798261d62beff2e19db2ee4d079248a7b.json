@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "공덕역1번출구", "endvehicletime": 2330, "intervalsattime": 22, "intervalsuntime": 22, "intervaltime": 14, "routeid": "GGB218000117", "routeno": 3400, "routetp": "직행좌석버스", "startnodenm": "가람마을5단지", "startvehicletime": "0500"}}}}}

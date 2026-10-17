@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역서초현대타워앞", "endvehicletime": 2220, "intervalsattime": 240, "intervalsuntime": 240, "intervaltime": 120, "routeid": "GGB232000081", "routeno": 6427, "routetp": "직행좌석버스", "startnodenm": "한가람마을우미린.호수이편한세상", "startvehicletime": "0500"}}}}}

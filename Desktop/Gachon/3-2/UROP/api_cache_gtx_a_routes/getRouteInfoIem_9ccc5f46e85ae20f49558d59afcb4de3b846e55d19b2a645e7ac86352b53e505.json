@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "상봉역4번출구", "endvehicletime": 2200, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 20, "routeid": "GGB207000109", "routeno": 1205, "routetp": "직행좌석버스", "startnodenm": "낙양동공영차고지", "startvehicletime": "0500"}}}}}

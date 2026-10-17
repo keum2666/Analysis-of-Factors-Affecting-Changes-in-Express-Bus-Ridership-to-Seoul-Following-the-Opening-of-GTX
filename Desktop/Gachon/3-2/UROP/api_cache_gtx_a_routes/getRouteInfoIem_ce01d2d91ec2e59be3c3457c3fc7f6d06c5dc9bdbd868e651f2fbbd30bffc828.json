@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "청량리역환승센터(4번승강장)", "endvehicletime": 2300, "intervalsattime": 30, "intervalsuntime": 30, "intervaltime": 15, "routeid": "GGB236000149", "routeno": 3200, "routetp": "직행좌석버스", "startnodenm": "반월아트홀.여성회관", "startvehicletime": "0440"}}}}}

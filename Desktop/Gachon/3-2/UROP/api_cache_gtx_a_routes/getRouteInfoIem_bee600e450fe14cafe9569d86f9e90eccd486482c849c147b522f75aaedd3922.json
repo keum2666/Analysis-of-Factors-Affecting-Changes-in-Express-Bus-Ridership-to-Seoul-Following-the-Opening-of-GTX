@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "판교역.낙생육교.현대백화점", "endvehicletime": 2300, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 5, "routeid": "GGB233000392", "routeno": 6011, "routetp": "직행좌석버스", "startnodenm": "호수자이파밀리에.아이원", "startvehicletime": "0510"}}}}}

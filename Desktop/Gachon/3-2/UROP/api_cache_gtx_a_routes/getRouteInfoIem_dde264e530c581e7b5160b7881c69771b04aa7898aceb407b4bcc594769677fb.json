@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "교대역14번출구", "endvehicletime": 2300, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 15, "routeid": "GGB228000412", "routeno": "M4455", "routetp": "광역급행버스", "startnodenm": "초당역(미정차)", "startvehicletime": "0530"}}}}}

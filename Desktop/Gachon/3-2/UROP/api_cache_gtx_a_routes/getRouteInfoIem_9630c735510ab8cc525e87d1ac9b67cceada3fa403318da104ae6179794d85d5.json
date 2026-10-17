@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "모래내시장.가좌역(중)", "endvehicletime": 2320, "intervalsattime": 35, "intervalsuntime": 35, "intervaltime": 20, "routeid": "GGB232000117", "routeno": "G6004", "routetp": "직행좌석버스", "startnodenm": "금빛마을.자연앤아파트", "startvehicletime": "0420"}}}}}

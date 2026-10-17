@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실광역환승센터", "endvehicletime": "0745", "intervaltime": 40, "routeid": "GGB207000124", "routeno": "G6000(예약)", "routetp": "직행좌석버스", "startnodenm": "민락동종점(미정차)", "startvehicletime": "0515"}}}}}

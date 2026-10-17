@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "을지로입구역.광교", "endvehicletime": 2300, "intervalsattime": 20, "intervalsuntime": 20, "intervaltime": 6, "routeid": "GGB234000878", "routeno": 8100, "routetp": "직행좌석버스", "startnodenm": "단국대.치과병원", "startvehicletime": "0500"}}}}}

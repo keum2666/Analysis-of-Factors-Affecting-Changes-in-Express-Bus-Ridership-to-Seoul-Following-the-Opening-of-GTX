@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "우림아파트", "endvehicletime": 2300, "intervalsattime": 60, "intervalsuntime": 60, "intervaltime": 30, "routeid": "GGB204000170", "routeno": 3100, "routetp": "직행좌석버스", "startnodenm": "(임시)금토동삼거리", "startvehicletime": "0500"}}}}}

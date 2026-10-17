@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "건대입구역1번출구", "endvehicletime": 2310, "intervalsattime": 20, "intervalsuntime": 20, "intervaltime": 8, "routeid": "GGB206000007", "routeno": 102, "routetp": "직행좌석버스", "startnodenm": "단국대.치과병원", "startvehicletime": "0500"}}}}}

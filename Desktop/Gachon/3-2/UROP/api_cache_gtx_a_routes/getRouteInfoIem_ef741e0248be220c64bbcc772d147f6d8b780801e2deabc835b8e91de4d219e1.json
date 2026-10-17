@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "대화역", "endvehicletime": 2330, "intervalsattime": 80, "intervalsuntime": 80, "intervaltime": 40, "routeid": "GGB234001236", "routeno": 8109, "routetp": "직행좌석버스", "startnodenm": "구미동차고지(미정차)", "startvehicletime": "0500"}}}}}

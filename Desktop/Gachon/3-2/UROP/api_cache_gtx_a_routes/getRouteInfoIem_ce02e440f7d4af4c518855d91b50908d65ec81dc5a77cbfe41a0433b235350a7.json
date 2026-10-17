@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실광역환승센터", "endvehicletime": "0800", "intervaltime": 20, "routeid": "GGB233000336", "routeno": "P9301(출근)", "routetp": "직행좌석버스", "startnodenm": "나루마을.월드반도", "startvehicletime": "0740"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강변역(B)", "endvehicletime": 2245, "intervalsattime": 35, "intervalsuntime": 35, "intervaltime": 10, "routeid": "GGB234000873", "routeno": 100, "routetp": "직행좌석버스", "startnodenm": "진벌리차고지(미정차)", "startvehicletime": "0455"}}}}}

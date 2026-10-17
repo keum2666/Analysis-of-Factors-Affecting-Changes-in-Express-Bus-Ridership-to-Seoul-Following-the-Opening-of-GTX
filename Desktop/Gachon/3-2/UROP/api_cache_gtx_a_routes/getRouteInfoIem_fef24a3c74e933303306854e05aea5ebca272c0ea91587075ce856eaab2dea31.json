@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "건대로데오거리입구", "endvehicletime": 2310, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 20, "routeid": "GGB236000176", "routeno": 3500, "routetp": "직행좌석버스", "startnodenm": "대진대주차장대기(미정차)", "startvehicletime": "0440"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역서초현대타워앞", "endvehicletime": 2250, "intervalsattime": 25, "intervalsuntime": 25, "intervaltime": 11, "routeid": "GGB218000167", "routeno": "M7412", "routetp": "광역급행버스", "startnodenm": "중산마을2단지.해태쇼핑.코오롱아파트", "startvehicletime": "0440"}}}}}

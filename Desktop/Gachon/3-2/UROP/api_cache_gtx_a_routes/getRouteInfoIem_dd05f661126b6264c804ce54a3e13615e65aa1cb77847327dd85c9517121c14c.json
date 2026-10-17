@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역(중)", "endvehicletime": 2350, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 15, "routeid": "GGB224000057", "routeno": 3301, "routetp": "직행좌석버스", "startnodenm": "능곡공영차고지", "startvehicletime": "0500"}}}}}

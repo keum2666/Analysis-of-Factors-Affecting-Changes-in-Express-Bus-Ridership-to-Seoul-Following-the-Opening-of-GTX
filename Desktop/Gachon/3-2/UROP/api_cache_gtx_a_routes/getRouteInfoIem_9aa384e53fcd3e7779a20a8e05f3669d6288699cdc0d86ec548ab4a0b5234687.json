@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "금토천교", "endvehicletime": 2300, "intervalsattime": 35, "intervalsuntime": 35, "intervaltime": 15, "routeid": "GGB227000038", "routeno": 3000, "routetp": "직행좌석버스", "startnodenm": "미사역호반써밋", "startvehicletime": "0500"}}}}}

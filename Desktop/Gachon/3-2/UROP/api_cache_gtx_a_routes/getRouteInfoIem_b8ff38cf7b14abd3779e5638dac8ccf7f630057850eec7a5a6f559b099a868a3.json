@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "부천터미널소풍(시외.고속)", "endvehicletime": 2020, "intervalsattime": 115, "intervalsuntime": 115, "intervaltime": 40, "routeid": "GGB234001740", "routeno": 5000, "routetp": "직행좌석버스", "startnodenm": "북파주농협.구문산터미널", "startvehicletime": "0430"}}}}}

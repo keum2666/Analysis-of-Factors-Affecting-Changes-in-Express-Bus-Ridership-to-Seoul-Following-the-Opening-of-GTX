@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "양재역커피빈앞", "endvehicletime": 2230, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 30, "routeid": "GGB233000329", "routeno": "G8157", "routetp": "직행좌석버스", "startnodenm": "향남주공18단지", "startvehicletime": "0530"}}}}}

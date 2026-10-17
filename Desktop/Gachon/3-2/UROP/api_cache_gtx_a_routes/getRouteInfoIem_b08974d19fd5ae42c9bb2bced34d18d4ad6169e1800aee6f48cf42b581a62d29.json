@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "롯데백화점.범계역", "endvehicletime": 2100, "intervalsattime": 150, "intervalsuntime": 150, "intervaltime": 80, "routeid": "GGB214000275", "routeno": 8204, "routetp": "직행좌석버스", "startnodenm": "안성종합버스터미널", "startvehicletime": "0500"}}}}}

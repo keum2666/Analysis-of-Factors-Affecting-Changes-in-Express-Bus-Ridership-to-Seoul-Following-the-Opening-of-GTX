@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "KCC사옥", "endvehicletime": 2230, "intervalsattime": 80, "intervalsuntime": 80, "intervaltime": 40, "routeid": "GGB200000299", "routeno": 5200, "routetp": "직행좌석버스", "startnodenm": "한국양계농협평택유통센터", "startvehicletime": "0530"}}}}}

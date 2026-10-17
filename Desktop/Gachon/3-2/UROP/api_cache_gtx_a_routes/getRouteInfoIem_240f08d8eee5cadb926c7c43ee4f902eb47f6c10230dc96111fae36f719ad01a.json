@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "백석역.고양종합터미널", "endvehicletime": 2200, "intervalsattime": 60, "intervalsuntime": 60, "intervaltime": 40, "routeid": "GGB200000328", "routeno": 8450, "routetp": "직행좌석버스", "startnodenm": "수원버스터미널", "startvehicletime": "0520"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "숭례문", "endvehicletime": 2250, "intervalsattime": 35, "intervalsuntime": 35, "intervaltime": 5, "routeid": "GGB234000875", "routeno": "M4101", "routetp": "광역급행버스", "startnodenm": "상현역", "startvehicletime": "0510"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "건대입구역사거리.건대병원", "endvehicletime": "0730", "intervaltime": 30, "routeid": "GGB234001713", "routeno": "P9402(출근)", "routetp": "직행좌석버스", "startnodenm": "송산초교.상가단지", "startvehicletime": "0700"}}}}}

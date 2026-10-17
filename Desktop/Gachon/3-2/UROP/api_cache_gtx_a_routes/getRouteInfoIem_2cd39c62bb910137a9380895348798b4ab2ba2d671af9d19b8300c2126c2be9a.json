@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "원흥아파트.옥련시장", "endvehicletime": 2320, "intervalsattime": 35, "intervalsuntime": 35, "intervaltime": 15, "routeid": "GGB213000015", "routeno": 3001, "routetp": "직행좌석버스", "startnodenm": "KTX광명역6번출구", "startvehicletime": "0530"}}}}}

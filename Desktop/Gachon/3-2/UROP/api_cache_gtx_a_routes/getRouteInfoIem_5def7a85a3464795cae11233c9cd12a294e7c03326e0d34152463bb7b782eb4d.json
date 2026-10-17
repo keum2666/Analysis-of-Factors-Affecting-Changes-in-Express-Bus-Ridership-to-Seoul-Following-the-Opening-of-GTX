@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "이마트", "endvehicletime": 1820, "intervaltime": 40, "routeid": "GGB233000365", "routeno": "P9540(퇴근)", "routetp": "직행좌석버스", "startnodenm": "판교제2테크노밸리", "startvehicletime": 1740}}}}}

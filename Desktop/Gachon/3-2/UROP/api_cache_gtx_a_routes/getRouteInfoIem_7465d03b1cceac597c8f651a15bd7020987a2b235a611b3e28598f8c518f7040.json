@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "양주자이6.7단지입구", "endvehicletime": 1840, "intervaltime": 30, "routeid": "GGB235000128", "routeno": "P9603(퇴근)", "routetp": "직행좌석버스", "startnodenm": "강변역(B)", "startvehicletime": 1810}}}}}

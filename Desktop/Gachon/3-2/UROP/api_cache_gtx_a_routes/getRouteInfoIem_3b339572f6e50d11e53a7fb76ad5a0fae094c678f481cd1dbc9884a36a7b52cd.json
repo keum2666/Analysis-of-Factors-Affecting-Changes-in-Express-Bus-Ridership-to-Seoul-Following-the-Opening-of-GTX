@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역서초현대타워앞", "endvehicletime": 2220, "intervalsattime": 70, "intervalsuntime": 70, "intervaltime": 40, "routeid": "GGB232000150", "routeno": 6428, "routetp": "직행좌석버스", "startnodenm": "수자인.호반아파트", "startvehicletime": "0500"}}}}}

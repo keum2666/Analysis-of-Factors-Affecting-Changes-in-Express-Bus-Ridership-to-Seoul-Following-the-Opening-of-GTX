@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신분당선강남역(중)", "endvehicletime": 2310, "intervalsattime": 35, "intervalsuntime": 35, "intervaltime": 15, "routeid": "GGB234001271", "routeno": 1570, "routetp": "직행좌석버스", "startnodenm": "광교차고지", "startvehicletime": "0510"}}}}}

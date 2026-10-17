@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신분당선강남역(중)", "endvehicletime": 2310, "intervalsattime": 80, "intervalsuntime": 80, "intervaltime": 10, "routeid": "GGB234001619", "routeno": "M4434", "routetp": "광역급행버스", "startnodenm": "호수자이파밀리에.아이원", "startvehicletime": "0520"}}}}}

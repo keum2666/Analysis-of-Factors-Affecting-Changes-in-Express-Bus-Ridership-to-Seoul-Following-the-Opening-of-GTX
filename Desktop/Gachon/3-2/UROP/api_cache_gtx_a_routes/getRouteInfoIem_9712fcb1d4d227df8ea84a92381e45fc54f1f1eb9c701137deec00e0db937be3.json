@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신분당선강남역(중)", "endvehicletime": 2130, "intervalsattime": 330, "intervalsuntime": 330, "intervaltime": 20, "routeid": "GGB233000142", "routeno": "6002-1", "routetp": "직행좌석버스", "startnodenm": "한화꿈에그린", "startvehicletime": "0650"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "한숲5단지", "endvehicletime": 1920, "intervaltime": 40, "routeid": "GGB228000401", "routeno": "P9201(퇴근)", "routetp": "직행좌석버스", "startnodenm": "지하철2호선강남역(중)", "startvehicletime": 1840}}}}}

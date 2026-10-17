@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "노원역9번출구", "endvehicletime": 2300, "intervalsattime": 60, "intervalsuntime": 60, "intervaltime": 25, "routeid": "GGB235000085", "routeno": 1100, "routetp": "직행좌석버스", "startnodenm": "덕정차고지(미정차)", "startvehicletime": "0530"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "광화문역7번출구", "endvehicletime": 2250, "intervalsattime": 45, "intervalsuntime": 45, "intervaltime": 25, "routeid": "GGB232000073", "routeno": 1004, "routetp": "직행좌석버스", "startnodenm": "원님마을.주공아파트", "startvehicletime": "0430"}}}}}

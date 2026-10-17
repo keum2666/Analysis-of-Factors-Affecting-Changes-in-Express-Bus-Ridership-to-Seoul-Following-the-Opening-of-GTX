@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "서울역버스환승센터(6번승강장)(중)", "endvehicletime": "0710", "intervaltime": 30, "routeid": "GGB233000355", "routeno": "P9110(출근)", "routetp": "직행좌석버스", "startnodenm": "수원아이파크시티.선일초교", "startvehicletime": "0640"}}}}}

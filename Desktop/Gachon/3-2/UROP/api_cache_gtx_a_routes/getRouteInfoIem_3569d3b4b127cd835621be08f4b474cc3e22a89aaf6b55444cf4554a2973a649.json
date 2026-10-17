@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "당산역광역환승센터(2번승강장)", "endvehicletime": 2310, "intervalsattime": 60, "intervalsuntime": 60, "intervaltime": 15, "routeid": "GGB232000137", "routeno": 6601, "routetp": "직행좌석버스", "startnodenm": "현대프라임아파트", "startvehicletime": "0450"}}}}}

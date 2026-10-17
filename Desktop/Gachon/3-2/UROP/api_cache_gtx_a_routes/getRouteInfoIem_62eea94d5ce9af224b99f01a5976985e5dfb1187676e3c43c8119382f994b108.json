@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역3번출구", "endvehicletime": 2330, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 20, "routeid": "GGB208000068", "routeno": "M5556", "routetp": "광역급행버스", "startnodenm": "충훈동행정복지센터.코오롱하늘채아파트", "startvehicletime": "0450"}}}}}

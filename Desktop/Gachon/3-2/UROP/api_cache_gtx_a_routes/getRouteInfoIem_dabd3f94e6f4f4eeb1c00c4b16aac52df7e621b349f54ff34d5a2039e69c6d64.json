@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실광역환승센터", "endvehicletime": "0725", "intervaltime": 20, "routeid": "GGB222000237", "routeno": "M2353(예약)", "routetp": "광역급행버스", "startnodenm": "차고지대기(미정차)", "startvehicletime": "0705"}}}}}

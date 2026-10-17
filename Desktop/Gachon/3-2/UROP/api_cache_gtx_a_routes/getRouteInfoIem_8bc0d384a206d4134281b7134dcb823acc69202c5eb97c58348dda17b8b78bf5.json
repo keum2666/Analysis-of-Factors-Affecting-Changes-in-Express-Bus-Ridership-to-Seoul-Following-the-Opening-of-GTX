@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "국가기록원성남분원.코이카", "endvehicletime": 2330, "intervalsattime": 30, "intervalsuntime": 30, "intervaltime": 10, "routeid": "GGB200000337", "routeno": 9100, "routetp": "직행좌석버스", "startnodenm": "호매실스타힐스.수원여대입구", "startvehicletime": "0530"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실광역환승센터", "endvehicletime": 2250, "intervalsattime": 90, "intervalsuntime": 90, "intervaltime": 5, "routeid": "GGB235000118", "routeno": 1304, "routetp": "직행좌석버스", "startnodenm": "조양중학교", "startvehicletime": "0500"}}}}}

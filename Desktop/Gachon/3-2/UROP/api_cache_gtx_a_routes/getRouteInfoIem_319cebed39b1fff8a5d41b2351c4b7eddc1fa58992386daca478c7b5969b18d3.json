@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "서울역버스환승센터(5번승강장)(중)", "intervalsattime": 55, "intervalsuntime": 55, "intervaltime": 3, "routeid": "GGB234000002", "routeno": 9000, "routetp": "직행좌석버스", "startnodenm": "구미동차고지(미정차)", "startvehicletime": "0450"}}}}}

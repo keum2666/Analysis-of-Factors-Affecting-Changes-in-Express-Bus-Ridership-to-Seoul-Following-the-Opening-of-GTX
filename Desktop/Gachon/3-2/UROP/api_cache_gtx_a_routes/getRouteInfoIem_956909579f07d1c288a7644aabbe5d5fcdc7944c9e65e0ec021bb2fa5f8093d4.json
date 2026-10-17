@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "안산역(도로변)", "endvehicletime": 2240, "intervalsattime": 23, "intervalsuntime": 23, "intervaltime": 15, "routeid": "GGB200000015", "routeno": 9090, "routetp": "직행좌석버스", "startnodenm": "오목천차고지(미정차)", "startvehicletime": "0420"}}}}}

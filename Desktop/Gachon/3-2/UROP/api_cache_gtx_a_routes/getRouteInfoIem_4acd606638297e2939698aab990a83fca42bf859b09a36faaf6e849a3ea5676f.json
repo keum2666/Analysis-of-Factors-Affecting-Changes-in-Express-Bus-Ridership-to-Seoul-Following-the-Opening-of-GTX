@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강변역(A)", "endvehicletime": 2310, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 10, "routeid": "GGB222000192", "routeno": 1006, "routetp": "직행좌석버스", "startnodenm": "다산차고지", "startvehicletime": "0540"}}}}}

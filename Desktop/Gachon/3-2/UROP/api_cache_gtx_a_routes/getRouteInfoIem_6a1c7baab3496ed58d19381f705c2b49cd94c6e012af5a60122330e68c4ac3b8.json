@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "서울역버스환승센터(5번승강장)(중)", "endvehicletime": 2240, "intervalsattime": 70, "intervalsuntime": 70, "intervaltime": 15, "routeid": "GGB228000465", "routeno": 4105, "routetp": "직행좌석버스", "startnodenm": "양지파인리조트", "startvehicletime": "0540"}}}}}

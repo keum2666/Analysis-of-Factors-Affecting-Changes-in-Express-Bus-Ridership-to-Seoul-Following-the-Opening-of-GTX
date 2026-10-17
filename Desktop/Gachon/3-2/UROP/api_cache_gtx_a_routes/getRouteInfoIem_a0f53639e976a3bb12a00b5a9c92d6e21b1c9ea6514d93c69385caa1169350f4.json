@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역티월드", "endvehicletime": 2320, "intervalsattime": 30, "intervalsuntime": 30, "intervaltime": 9, "routeid": "GGB204000041", "routeno": 9004, "routetp": "직행좌석버스", "startnodenm": "운중동먹거리촌", "startvehicletime": "0500"}}}}}

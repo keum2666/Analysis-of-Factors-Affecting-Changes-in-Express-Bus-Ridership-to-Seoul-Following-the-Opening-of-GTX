@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "서울역버스환승센터(5번승강장)(중)", "endvehicletime": 2240, "intervalsattime": 60, "intervalsuntime": 60, "intervaltime": 30, "routeid": "GGB223000150", "routeno": 5104, "routetp": "직행좌석버스", "startnodenm": "세교한신더휴.LH21단지아파트", "startvehicletime": "0500"}}}}}

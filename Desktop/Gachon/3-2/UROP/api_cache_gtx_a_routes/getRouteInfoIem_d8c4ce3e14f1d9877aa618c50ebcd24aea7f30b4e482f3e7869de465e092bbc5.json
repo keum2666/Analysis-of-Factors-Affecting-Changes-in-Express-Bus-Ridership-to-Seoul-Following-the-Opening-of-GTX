@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신분당선강남역(중)", "endvehicletime": 1130, "intervalsattime": 30, "intervalsuntime": 30, "intervaltime": 5, "routeid": "GGB234000884", "routeno": "1560A", "routetp": "직행좌석버스", "startnodenm": "경희대차고지(미정차)", "startvehicletime": "0500"}}}}}

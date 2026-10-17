@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "지하철2호선강남역(중)", "endvehicletime": 2130, "intervalsattime": 70, "intervalsuntime": 70, "intervaltime": 40, "routeid": "GGB204000153", "routeno": 9400, "routetp": "직행좌석버스", "startnodenm": "자동차검사소.산성아파트", "startvehicletime": "0530"}}}}}

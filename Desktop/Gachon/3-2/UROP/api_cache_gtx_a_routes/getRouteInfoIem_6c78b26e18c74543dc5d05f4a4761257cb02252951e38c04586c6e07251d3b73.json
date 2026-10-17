@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "여의도역5번출구", "endvehicletime": 2340, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 20, "routeid": "GGB229000112", "routeno": "G7625", "routetp": "직행좌석버스", "startnodenm": "당하동", "startvehicletime": "0430"}}}}}

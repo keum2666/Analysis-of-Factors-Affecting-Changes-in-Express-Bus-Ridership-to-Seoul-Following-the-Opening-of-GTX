@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "지행역3번출구", "endvehicletime": 1900, "intervaltime": 30, "routeid": "GGB233000376", "routeno": "P9701(퇴근)", "routetp": "직행좌석버스", "startnodenm": "잠실광역환승센터", "startvehicletime": 1830}}}}}

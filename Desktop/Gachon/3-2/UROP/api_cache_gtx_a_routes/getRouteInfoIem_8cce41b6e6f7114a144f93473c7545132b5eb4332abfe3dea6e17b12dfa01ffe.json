@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역9번출구", "endvehicletime": "0642", "intervaltime": 20, "routeid": "GGB222000122", "routeno": "2000-1", "routetp": "직행좌석버스", "startnodenm": "진벌리차고지(미정차)", "startvehicletime": "0622"}}}}}

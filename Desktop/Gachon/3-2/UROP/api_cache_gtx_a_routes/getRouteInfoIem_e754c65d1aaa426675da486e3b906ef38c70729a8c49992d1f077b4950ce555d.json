@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "당산역광역환승센터(1번승강장)", "endvehicletime": 2310, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 20, "routeid": "GGB232000094", "routeno": "G6001", "routetp": "직행좌석버스", "startnodenm": "차량대기(미정차)", "startvehicletime": "0430"}}}}}

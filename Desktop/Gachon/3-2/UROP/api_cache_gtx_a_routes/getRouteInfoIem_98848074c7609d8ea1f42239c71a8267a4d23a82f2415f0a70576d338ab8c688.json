@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사송동종점", "endvehicletime": 2140, "intervalsattime": 75, "intervalsuntime": 75, "intervaltime": 30, "routeid": "GGB200000314", "routeno": 4000, "routetp": "직행좌석버스", "startnodenm": "수원남부버스공영차고지(미정차)", "startvehicletime": "0450"}}}}}

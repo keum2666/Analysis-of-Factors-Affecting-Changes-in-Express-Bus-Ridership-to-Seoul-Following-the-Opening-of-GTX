@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역12번출구A", "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 20, "routeid": "GGB236000190", "routeno": 3600, "routetp": "직행좌석버스", "startnodenm": "차고지대기(미정차)", "startvehicletime": "0430"}}}}}

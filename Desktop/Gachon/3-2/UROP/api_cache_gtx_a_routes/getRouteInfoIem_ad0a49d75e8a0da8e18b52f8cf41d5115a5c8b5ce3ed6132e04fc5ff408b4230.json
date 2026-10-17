@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "무역센터", "endvehicletime": 2230, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 15, "routeid": "GGB234001695", "routeno": "G3202", "routetp": "직행좌석버스", "startnodenm": "추자동차고지입구", "startvehicletime": "0500"}}}}}

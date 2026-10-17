@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "서울역버스환승센터(6번승강장)(중)", "endvehicletime": 2240, "intervalsattime": 105, "intervalsuntime": 105, "intervaltime": 10, "routeid": "GGB233000270", "routeno": 4108, "routetp": "직행좌석버스", "startnodenm": "나루마을.월드반도", "startvehicletime": "0520"}}}}}

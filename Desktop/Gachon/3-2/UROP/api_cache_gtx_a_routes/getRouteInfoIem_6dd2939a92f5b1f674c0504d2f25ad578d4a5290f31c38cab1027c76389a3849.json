@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "경기도청북부청사", "endvehicletime": 2300, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 25, "routeid": "GGB218000151", "routeno": 3800, "routetp": "직행좌석버스", "startnodenm": "고양공영차고지", "startvehicletime": "0500"}}}}}

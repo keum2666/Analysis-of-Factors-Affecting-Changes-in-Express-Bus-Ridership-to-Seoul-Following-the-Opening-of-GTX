@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "안중터미널.안중보건지소", "endvehicletime": 2240, "intervalsattime": 45, "intervalsuntime": 45, "intervaltime": 45, "routeid": "GGB233000272", "routeno": 8472, "routetp": "직행좌석버스", "startnodenm": "서둔동차고지대기(미정차)", "startvehicletime": "0500"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "세종문화회관", "endvehicletime": "0715", "intervalsattime": 0, "intervalsuntime": 0, "intervaltime": 15, "routeid": "GGB228000452", "routeno": "5500-2(예약)", "routetp": "직행좌석버스", "startnodenm": "신봉사거리.LG자이아파트", "startvehicletime": "0620"}}}}}

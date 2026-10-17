@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역3번출구", "endvehicletime": 2030, "intervaltime": 30, "routeid": "GGB224000064", "routeno": "시흥광역콜버스", "routetp": "직행좌석버스", "startnodenm": "MTV단독주택남측", "startvehicletime": "0600"}}}}}

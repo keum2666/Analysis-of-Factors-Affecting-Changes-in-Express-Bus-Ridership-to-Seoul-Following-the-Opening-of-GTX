@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "수원버스터미널", "endvehicletime": "0720", "intervaltime": 20, "routeid": "GGB200000332", "routeno": "P5342(퇴근)", "routetp": "직행좌석버스", "startnodenm": "잠실광역환승센터", "startvehicletime": "0640"}}}}}

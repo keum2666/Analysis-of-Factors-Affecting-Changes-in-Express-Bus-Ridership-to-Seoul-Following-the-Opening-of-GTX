@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실역1번.11번출구", "endvehicletime": 2200, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 20, "routeid": "GGB230000220", "routeno": 3303, "routetp": "직행좌석버스", "startnodenm": "이화아파트", "startvehicletime": "0500"}}}}}

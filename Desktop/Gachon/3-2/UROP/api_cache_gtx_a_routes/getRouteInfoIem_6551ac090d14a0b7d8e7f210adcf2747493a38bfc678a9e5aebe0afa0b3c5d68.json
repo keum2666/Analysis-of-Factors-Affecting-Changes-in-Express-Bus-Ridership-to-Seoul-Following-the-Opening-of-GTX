@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신분당선강남역(중)", "endvehicletime": 2300, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 15, "routeid": "GGB234000879", "routeno": 1101, "routetp": "직행좌석버스", "startnodenm": "단국대.치과병원", "startvehicletime": "0500"}}}}}

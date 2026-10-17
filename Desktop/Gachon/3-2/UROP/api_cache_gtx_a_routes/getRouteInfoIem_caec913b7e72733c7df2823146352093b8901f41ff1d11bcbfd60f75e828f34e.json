@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "국가기록원성남분원.코이카", "endvehicletime": 2100, "intervalsattime": 150, "intervalsuntime": 150, "intervaltime": 60, "routeid": "GGB216000107", "routeno": 3103, "routetp": "직행좌석버스", "startnodenm": "본오동종점", "startvehicletime": "0600"}}}}}

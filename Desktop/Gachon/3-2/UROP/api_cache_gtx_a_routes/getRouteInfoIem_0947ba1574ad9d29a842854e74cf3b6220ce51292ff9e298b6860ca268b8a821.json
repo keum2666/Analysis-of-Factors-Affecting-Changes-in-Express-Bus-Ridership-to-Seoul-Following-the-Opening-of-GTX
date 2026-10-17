@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "공덕역1번출구", "endvehicletime": "0030", "intervalsattime": 14, "intervalsuntime": 14, "intervaltime": 7, "routeid": "GGB218000158", "routeno": "M7731", "routetp": "광역급행버스", "startnodenm": "하이파크시티3.5단지", "startvehicletime": "0500"}}}}}

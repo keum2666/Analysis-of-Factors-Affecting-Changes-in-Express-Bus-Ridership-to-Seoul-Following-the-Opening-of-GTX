@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역(중)", "endvehicletime": "0810", "intervaltime": 10, "routeid": "GGB200000285", "routeno": "7780(예약)", "routetp": "직행좌석버스", "startnodenm": "정자3동행정복지센터.정자동중심상가", "startvehicletime": "0620"}}}}}

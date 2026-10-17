@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "케피코경기외국어고등학교", "endvehicletime": 2320, "intervalsattime": 30, "intervalsuntime": 30, "intervaltime": 10, "routeid": "GGB234000051", "routeno": 3500, "routetp": "직행좌석버스", "startnodenm": "구미동차고지(미정차)", "startvehicletime": "0450"}}}}}

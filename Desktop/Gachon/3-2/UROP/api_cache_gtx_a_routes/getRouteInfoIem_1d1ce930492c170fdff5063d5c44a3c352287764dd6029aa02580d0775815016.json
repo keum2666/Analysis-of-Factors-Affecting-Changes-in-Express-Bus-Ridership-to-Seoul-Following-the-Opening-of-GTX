@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "킨텍스제1전시장", "endvehicletime": 2200, "intervalsattime": 60, "intervalsuntime": 60, "intervaltime": 20, "routeid": "GGB216000045", "routeno": 8407, "routetp": "직행좌석버스", "startnodenm": "경원여객안양차고지(미정차)", "startvehicletime": "0430"}}}}}

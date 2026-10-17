@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "상봉역4번출구", "endvehicletime": 2300, "intervalsattime": 45, "intervalsuntime": 45, "intervaltime": 15, "routeid": "GGB235000104", "routeno": "G1200", "routetp": "직행좌석버스", "startnodenm": "덕정차고지(미정차)", "startvehicletime": "0500"}}}}}

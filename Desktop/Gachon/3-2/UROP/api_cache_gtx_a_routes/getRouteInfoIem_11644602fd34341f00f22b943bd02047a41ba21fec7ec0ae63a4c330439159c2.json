@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "서울역버스환승센터", "endvehicletime": 2130, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 30, "routeid": "GGB233000441", "routeno": 5101, "routetp": "직행좌석버스", "startnodenm": "현대기아연구소", "startvehicletime": "0500"}}}}}

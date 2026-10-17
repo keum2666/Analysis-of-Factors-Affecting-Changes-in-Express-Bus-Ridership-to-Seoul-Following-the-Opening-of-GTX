@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "CM병원", "endvehicletime": "0715", "intervaltime": 0, "routeid": "GGB218000174", "routeno": "1500(예약)", "routetp": "직행좌석버스", "startnodenm": "차고지대기(미정차)", "startvehicletime": "0715"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "테크노마트앞.강변역(C)", "endvehicletime": 2230, "intervaltime": 0, "routeid": "GGB200000333", "routeno": "1112(예약)", "routetp": "직행좌석버스", "startnodenm": "경희대차고지", "startvehicletime": "0440"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실광역환승센터", "endvehicletime": "0730", "intervaltime": 25, "routeid": "GGB222000235", "routeno": "M2352(예약)", "routetp": "광역급행버스", "startnodenm": "호평동차고지(미정차)", "startvehicletime": "0620"}}}}}

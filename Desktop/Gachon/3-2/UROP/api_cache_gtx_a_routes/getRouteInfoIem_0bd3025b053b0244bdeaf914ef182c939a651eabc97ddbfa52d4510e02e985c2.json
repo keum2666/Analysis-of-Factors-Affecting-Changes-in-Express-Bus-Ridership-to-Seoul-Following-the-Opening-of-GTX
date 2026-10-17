@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "테크노마트앞.강변역(C)", "endvehicletime": 2245, "intervalsattime": 25, "intervalsuntime": 25, "intervaltime": 12, "routeid": "GGB234000069", "routeno": 1117, "routetp": "직행좌석버스", "startnodenm": "외국어대학교", "startvehicletime": "0440"}}}}}

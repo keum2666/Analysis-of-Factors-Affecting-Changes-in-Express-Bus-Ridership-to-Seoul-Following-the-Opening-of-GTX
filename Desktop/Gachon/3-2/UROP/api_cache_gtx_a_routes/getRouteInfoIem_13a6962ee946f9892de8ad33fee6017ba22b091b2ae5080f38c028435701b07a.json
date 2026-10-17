@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "테크노마트앞.강변역(D)", "endvehicletime": 2320, "intervalsattime": 35, "intervalsuntime": 35, "intervaltime": 17, "routeid": "GGB227000040", "routeno": 9304, "routetp": "직행좌석버스", "startnodenm": "BRT공영버스차고지(미정차)", "startvehicletime": "0500"}}}}}

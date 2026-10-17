@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "수원역4번출구.노보텔수원", "endvehicletime": 2320, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 20, "routeid": "GGB216000104", "routeno": 7070, "routetp": "직행좌석버스", "startnodenm": "경인합섬앞", "startvehicletime": "0430"}}}}}

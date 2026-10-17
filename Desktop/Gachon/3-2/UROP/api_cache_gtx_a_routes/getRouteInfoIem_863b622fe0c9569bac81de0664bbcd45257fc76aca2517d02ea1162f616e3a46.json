@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신논현역.주류성빌딩", "endvehicletime": 1150, "intervalsattime": 21, "intervalsuntime": 21, "intervaltime": 10, "routeid": "GGB228000430", "routeno": "5001-1A", "routetp": "직행좌석버스", "startnodenm": "명지대", "startvehicletime": "0530"}}}}}

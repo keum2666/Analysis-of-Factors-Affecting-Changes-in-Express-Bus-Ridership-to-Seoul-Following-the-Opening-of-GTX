@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역3번출구", "endvehicletime": 2210, "intervalsattime": 20, "intervalsuntime": 20, "intervaltime": 4, "routeid": "GGB234000313", "routeno": "1500-2", "routetp": "직행좌석버스", "startnodenm": "에버랜드(승차홈)", "startvehicletime": "0455"}}}}}

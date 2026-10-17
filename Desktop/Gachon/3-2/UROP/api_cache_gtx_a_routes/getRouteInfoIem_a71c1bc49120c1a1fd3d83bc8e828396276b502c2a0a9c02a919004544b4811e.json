@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "야탑역.종합버스터미널(전면)", "endvehicletime": 2000, "intervalsattime": 300, "intervalsuntime": 300, "intervaltime": 250, "routeid": "GGB234001745", "routeno": 8302, "routetp": "직행좌석버스", "startnodenm": "오산역환승센터2층(2승강장)", "startvehicletime": "0620"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "혜화역2번출구.마로니에공원", "endvehicletime": 2300, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 20, "routeid": "GGB229000273", "routeno": 7101, "routetp": "직행좌석버스", "startnodenm": "팜스프링아파트", "startvehicletime": "0420"}}}}}

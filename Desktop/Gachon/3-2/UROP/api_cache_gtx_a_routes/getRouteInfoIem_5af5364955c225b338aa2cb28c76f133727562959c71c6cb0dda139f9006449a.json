@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "인덕원역1번출구", "endvehicletime": 2300, "intervalsattime": 30, "intervalsuntime": 30, "intervaltime": 20, "routeid": "GGB200000109", "routeno": 7002, "routetp": "직행좌석버스", "startnodenm": "수원남부버스공영차고지", "startvehicletime": "0520"}}}}}

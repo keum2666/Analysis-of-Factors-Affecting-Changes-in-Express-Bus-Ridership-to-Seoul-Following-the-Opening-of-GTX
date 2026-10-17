@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신촌오거리.2호선신촌역(중)", "endvehicletime": 2200, "intervalsattime": 20, "intervalsuntime": 20, "intervaltime": 15, "routeid": "GGB232000138", "routeno": "3000-1", "routetp": "직행좌석버스", "startnodenm": "차고지대기(미정차)", "startvehicletime": "0420"}}}}}

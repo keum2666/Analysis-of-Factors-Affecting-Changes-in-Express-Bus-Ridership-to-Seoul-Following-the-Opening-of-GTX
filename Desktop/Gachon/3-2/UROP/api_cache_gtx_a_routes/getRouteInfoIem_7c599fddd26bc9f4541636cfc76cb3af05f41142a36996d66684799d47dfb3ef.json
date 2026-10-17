@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "명지대", "endvehicletime": 1905, "intervaltime": 30, "routeid": "GGB228000462", "routeno": "5001-1(급행하행)", "routetp": "직행좌석버스", "startnodenm": "신논현역", "startvehicletime": 1835}}}}}

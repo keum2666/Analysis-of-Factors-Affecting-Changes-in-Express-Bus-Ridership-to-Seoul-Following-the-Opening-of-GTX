@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "말죽거리공원사거리", "endvehicletime": 2245, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 20, "routeid": "GGB219000026", "routeno": 9700, "routetp": "직행좌석버스", "startnodenm": "기점진입전(미정차)", "startvehicletime": "0500"}}}}}

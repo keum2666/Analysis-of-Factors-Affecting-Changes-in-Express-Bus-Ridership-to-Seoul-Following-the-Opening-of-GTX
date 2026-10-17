@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "여의도환승센터(2번승강장)", "endvehicletime": 2320, "intervalsattime": 60, "intervalsuntime": 60, "intervaltime": 10, "routeid": "GGB216000046", "routeno": 5609, "routetp": "직행좌석버스", "startnodenm": "새솔고", "startvehicletime": "0510"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역3번출구", "endvehicletime": 2300, "intervaltime": 30, "routeid": "GGB200000327", "routeno": "수원MDRT", "routetp": "직행좌석버스", "startnodenm": "LH수원당수2단지", "startvehicletime": "0640"}}}}}

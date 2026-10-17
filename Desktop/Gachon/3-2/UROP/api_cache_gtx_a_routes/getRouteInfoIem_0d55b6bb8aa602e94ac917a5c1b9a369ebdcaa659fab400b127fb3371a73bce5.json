@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "인천대학교공과대학", "endvehicletime": 2320, "intervalsattime": 45, "intervalsuntime": 45, "intervaltime": 25, "routeid": "GGB213000019", "routeno": 3002, "routetp": "직행좌석버스", "startnodenm": "KTX광명역6번출구", "startvehicletime": "0520"}}}}}

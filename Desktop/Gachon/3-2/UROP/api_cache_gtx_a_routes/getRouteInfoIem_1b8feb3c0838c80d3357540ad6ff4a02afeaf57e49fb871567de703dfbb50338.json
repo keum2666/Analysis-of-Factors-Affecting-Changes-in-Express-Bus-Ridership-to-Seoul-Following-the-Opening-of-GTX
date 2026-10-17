@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "호매실엔루체", "endvehicletime": 1920, "intervalsattime": 0, "intervalsuntime": 0, "intervaltime": 50, "routeid": "GGB200000340", "routeno": "9100-1(퇴근예약)", "routetp": "직행좌석버스", "startnodenm": "판교제2테크노밸리", "startvehicletime": 1830}}}}}

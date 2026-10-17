@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "지하철2호선강남역(중)", "endvehicletime": "0640", "intervaltime": 20, "routeid": "GGB228000400", "routeno": "P9201(출근)", "routetp": "직행좌석버스", "startnodenm": "한숲6단지", "startvehicletime": "0620"}}}}}

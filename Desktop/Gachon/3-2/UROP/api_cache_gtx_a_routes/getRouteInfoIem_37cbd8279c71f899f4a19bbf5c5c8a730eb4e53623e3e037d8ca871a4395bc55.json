@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "경방타임스퀘어.신세계백화점", "endvehicletime": 2230, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 15, "routeid": "GGB232000007", "routeno": 8000, "routetp": "직행좌석버스", "startnodenm": "대명항", "startvehicletime": "0410"}}}}}

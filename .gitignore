@@ -1,20 +1,32 @@
-# Python / Jupyter
-__pycache__/
-*.py[cod]
-.ipynb_checkpoints/
-.pytest_cache/
-.jupyter_runtime/
-
-# Secrets
+# 비밀
 .env
 *.key
 
-# Large or restricted raw data
-**/data/raw/
-**/raw/
-**/api_cache*/
-
-# Generated archives and temporary files
+# 대용량·원자료 (로컬에만 보관)
+data/raw/
+data/processed/gtx_a/workspace/
+archive/
+references/
 *.zip
-*.tmp
-~$*
+
+# 시스템·캐시
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.jupyter_runtime/
+.vscode/
+
+# 프로젝트 하위 원본 데이터 및 임시 작업 자료
+**/data/raw/
+**/data/processed/gtx_a/workspace/
+shared/api_cache/
+backup/
+MIGRATION_FINAL_CHECK/
+REORGANIZATION_*/
+PROJECT_AUDIT_*/
+
+# 인증 정보 및 참고 PDF
+**/.env
+**/.env.*
+materials/references/*.pdf

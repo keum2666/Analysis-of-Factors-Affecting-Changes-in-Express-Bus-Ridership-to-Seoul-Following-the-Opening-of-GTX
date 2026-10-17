@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "CM병원", "endvehicletime": 2300, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 20, "routeid": "GGB218000164", "routeno": 7602, "routetp": "직행좌석버스", "startnodenm": "고양동종점.고양레저타운", "startvehicletime": "0500"}}}}}

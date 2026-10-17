@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역9번출구", "endvehicletime": 2230, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 10, "routeid": "GGB222000076", "routeno": 7007, "routetp": "직행좌석버스", "startnodenm": "광릉내", "startvehicletime": "0510"}}}}}

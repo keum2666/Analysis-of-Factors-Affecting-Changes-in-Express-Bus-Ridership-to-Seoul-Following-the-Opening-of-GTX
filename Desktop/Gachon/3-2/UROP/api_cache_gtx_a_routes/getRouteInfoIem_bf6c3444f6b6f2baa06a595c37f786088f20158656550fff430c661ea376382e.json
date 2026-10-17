@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "서울역버스환승센터(5번승강장)(중)", "endvehicletime": 2230, "intervalsattime": 60, "intervalsuntime": 60, "intervaltime": 20, "routeid": "GGB228000441", "routeno": 4104, "routetp": "직행좌석버스", "startnodenm": "서천마을센트럴파크원.힐스테이트", "startvehicletime": "0500"}}}}}

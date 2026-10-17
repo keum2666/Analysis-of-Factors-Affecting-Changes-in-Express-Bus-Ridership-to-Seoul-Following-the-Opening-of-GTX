@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역4번출구", "endvehicletime": 2250, "intervalsattime": 80, "intervalsuntime": 80, "intervaltime": 40, "routeid": "GGB223000127", "routeno": "M5532", "routetp": "광역급행버스", "startnodenm": "갈곶리삼거리(미정차)", "startvehicletime": "0500"}}}}}

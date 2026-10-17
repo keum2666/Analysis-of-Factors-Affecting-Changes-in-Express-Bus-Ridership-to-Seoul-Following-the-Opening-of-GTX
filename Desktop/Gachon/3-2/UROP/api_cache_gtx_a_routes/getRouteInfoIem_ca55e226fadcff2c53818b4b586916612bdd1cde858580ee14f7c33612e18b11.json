@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "상암DMC홍보관.YTN", "endvehicletime": 2300, "intervalsattime": 30, "intervalsuntime": 30, "intervaltime": 30, "routeid": "GGB232000139", "routeno": 6701, "routetp": "직행좌석버스", "startnodenm": "홈플러스.산림조합", "startvehicletime": "0430"}}}}}

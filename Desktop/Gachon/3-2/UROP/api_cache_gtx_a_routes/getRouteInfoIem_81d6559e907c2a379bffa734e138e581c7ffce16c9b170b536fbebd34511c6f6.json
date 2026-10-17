@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실광역환승센터", "endvehicletime": 2300, "intervalsattime": 25, "intervalsuntime": 25, "intervaltime": 8, "routeid": "GGB222000090", "routeno": 8012, "routetp": "직행좌석버스", "startnodenm": "광릉내", "startvehicletime": "0500"}}}}}

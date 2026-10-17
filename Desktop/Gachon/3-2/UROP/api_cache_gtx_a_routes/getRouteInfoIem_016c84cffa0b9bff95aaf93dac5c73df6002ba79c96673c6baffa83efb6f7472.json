@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "서울대입구역2번출구", "endvehicletime": 2355, "intervalsattime": 30, "intervalsuntime": 30, "intervaltime": 15, "routeid": "GGB224000054", "routeno": 3500, "routetp": "직행좌석버스", "startnodenm": "오이도차고지", "startvehicletime": "0520"}}}}}

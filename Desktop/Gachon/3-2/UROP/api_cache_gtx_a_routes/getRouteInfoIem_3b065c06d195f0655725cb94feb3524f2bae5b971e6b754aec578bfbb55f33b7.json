@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "국가기록원성남분원.코이카", "endvehicletime": 2220, "intervalsattime": 100, "intervalsuntime": 100, "intervaltime": 30, "routeid": "GGB224000069", "routeno": 3402, "routetp": "직행좌석버스", "startnodenm": "이마트", "startvehicletime": "0540"}}}}}

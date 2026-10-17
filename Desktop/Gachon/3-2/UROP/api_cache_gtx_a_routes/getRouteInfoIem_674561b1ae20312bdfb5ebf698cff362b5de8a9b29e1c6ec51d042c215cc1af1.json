@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신사역(중)", "endvehicletime": "0100", "intervalsattime": 30, "intervalsuntime": 30, "intervaltime": 13, "routeid": "GGB208000027", "routeno": 3030, "routetp": "직행좌석버스", "startnodenm": "군포공영차고지(미정차)", "startvehicletime": "0525"}}}}}

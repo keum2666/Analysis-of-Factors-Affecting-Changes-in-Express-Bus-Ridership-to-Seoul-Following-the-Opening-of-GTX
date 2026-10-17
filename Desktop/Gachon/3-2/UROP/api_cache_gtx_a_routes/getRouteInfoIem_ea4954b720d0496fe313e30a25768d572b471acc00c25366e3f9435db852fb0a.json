@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역나라빌딩앞", "endvehicletime": 2130, "intervalsattime": 165, "intervalsuntime": 165, "intervaltime": 15, "routeid": "GGB200000274", "routeno": 3008, "routetp": "직행좌석버스", "startnodenm": "수원아이파크시티.선일초교", "startvehicletime": "0700"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역12번출구A", "endvehicletime": 2245, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 25, "routeid": "GGB234001244", "routeno": 9600, "routetp": "직행좌석버스", "startnodenm": "위시티3.4단지", "startvehicletime": "0500"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "상동역1번출구.부천터미널소풍", "endvehicletime": 2310, "intervalsattime": 25, "intervalsuntime": 25, "intervaltime": 10, "routeid": "GGB234001237", "routeno": 8106, "routetp": "직행좌석버스", "startnodenm": "구미동차고지(미정차)", "startvehicletime": "0510"}}}}}

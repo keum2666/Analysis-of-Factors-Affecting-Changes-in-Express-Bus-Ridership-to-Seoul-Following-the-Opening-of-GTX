@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "광화문역2번출구.KT광화문지사", "endvehicletime": 2250, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 25, "routeid": "GGB207000135", "routeno": 1108, "routetp": "직행좌석버스", "startnodenm": "버들개.실내빙상장", "startvehicletime": "0500"}}}}}

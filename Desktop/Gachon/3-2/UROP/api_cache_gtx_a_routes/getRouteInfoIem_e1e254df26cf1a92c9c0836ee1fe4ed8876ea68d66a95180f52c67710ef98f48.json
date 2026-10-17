@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "테크노마트앞.강변역(C)", "endvehicletime": "0835", "intervalsattime": 35, "intervalsuntime": 35, "intervaltime": 25, "routeid": "GGB228000395", "routeno": "5700A", "routetp": "직행좌석버스", "startnodenm": "명지대", "startvehicletime": "0520"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "테크노마트앞.강변역(C)", "endvehicletime": "0810", "intervaltime": 30, "routeid": "GGB228000420", "routeno": "5600(예약)", "routetp": "직행좌석버스", "startnodenm": "수원컨트리클럽", "startvehicletime": "0740"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "CM병원", "endvehicletime": 2230, "intervalsattime": 20, "intervalsuntime": 20, "intervaltime": 10, "routeid": "GGB219000006", "routeno": 1082, "routetp": "직행좌석버스", "startnodenm": "명성운수종점", "startvehicletime": "0500"}}}}}

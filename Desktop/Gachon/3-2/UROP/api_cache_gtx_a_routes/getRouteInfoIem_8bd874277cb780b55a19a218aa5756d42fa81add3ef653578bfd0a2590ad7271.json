@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역티월드", "endvehicletime": 2230, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 15, "routeid": "GGB228000181", "routeno": 1241, "routetp": "직행좌석버스", "startnodenm": "청덕중고.지식산업센터.청덕도서관", "startvehicletime": "0500"}}}}}

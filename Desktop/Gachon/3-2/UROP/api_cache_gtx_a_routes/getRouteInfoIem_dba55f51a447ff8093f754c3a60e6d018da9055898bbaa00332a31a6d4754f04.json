@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역서초현대타워앞", "endvehicletime": 2330, "intervalsattime": 45, "intervalsuntime": 45, "intervaltime": 10, "routeid": "GGB216000044", "routeno": "M6410", "routetp": "광역급행버스", "startnodenm": "사리울중학교", "startvehicletime": "0550"}}}}}

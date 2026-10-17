@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "서울역버스환승센터(6번승강장)(중)", "endvehicletime": 2330, "intervalsattime": 20, "intervalsuntime": 20, "intervaltime": 2, "routeid": "GGB200000205", "routeno": 8800, "routetp": "직행좌석버스", "startnodenm": "수원버스터미널", "startvehicletime": "0510"}}}}}

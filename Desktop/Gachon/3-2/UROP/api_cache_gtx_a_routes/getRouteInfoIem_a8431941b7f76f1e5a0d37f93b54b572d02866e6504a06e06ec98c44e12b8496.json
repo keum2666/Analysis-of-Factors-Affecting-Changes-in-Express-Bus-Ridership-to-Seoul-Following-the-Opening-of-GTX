@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실광역환승센터", "endvehicletime": 2250, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 10, "routeid": "GGB233000322", "routeno": "G6009", "routetp": "직행좌석버스", "startnodenm": "호수자이파밀리에.아이원", "startvehicletime": "0510"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역3번출구", "endvehicletime": "0648", "intervaltime": 20, "routeid": "GGB233000366", "routeno": "P9541(출근)", "routetp": "직행좌석버스", "startnodenm": "이마트", "startvehicletime": "0628"}}}}}

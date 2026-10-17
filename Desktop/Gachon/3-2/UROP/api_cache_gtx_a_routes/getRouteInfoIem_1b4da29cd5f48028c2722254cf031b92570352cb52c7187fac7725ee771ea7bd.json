@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "양재역신한은행앞", "endvehicletime": 2300, "intervalsattime": 23, "intervalsuntime": 23, "intervaltime": 10, "routeid": "GGB207000070", "routeno": 3100, "routetp": "직행좌석버스", "startnodenm": "대진대주차장대기(미정차)", "startvehicletime": "0335"}}}}}

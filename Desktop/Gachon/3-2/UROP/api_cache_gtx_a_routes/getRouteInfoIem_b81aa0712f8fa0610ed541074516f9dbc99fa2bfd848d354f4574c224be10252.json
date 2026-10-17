@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실역", "endvehicletime": "0020", "intervalsattime": 25, "intervalsuntime": 25, "intervaltime": 8, "routeid": "GGB222000046", "routeno": 1670, "routetp": "직행좌석버스", "startnodenm": "연대농장입구.도곡리종점", "startvehicletime": "0507"}}}}}

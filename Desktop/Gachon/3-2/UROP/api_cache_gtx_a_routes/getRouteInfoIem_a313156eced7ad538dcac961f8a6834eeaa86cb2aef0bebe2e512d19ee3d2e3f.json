@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신사역3번출구", "endvehicletime": 2300, "intervalsattime": 60, "intervalsuntime": 60, "intervaltime": 20, "routeid": "GGB222000074", "routeno": 1100, "routetp": "직행좌석버스", "startnodenm": "차산리", "startvehicletime": "0500"}}}}}

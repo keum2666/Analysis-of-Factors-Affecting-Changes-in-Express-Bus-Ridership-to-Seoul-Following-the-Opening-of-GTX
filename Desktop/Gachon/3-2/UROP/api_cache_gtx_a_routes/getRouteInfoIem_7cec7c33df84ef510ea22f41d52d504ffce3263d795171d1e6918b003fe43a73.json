@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "도봉산역광역환승센터", "endvehicletime": 2210, "intervalsattime": 45, "intervalsuntime": 45, "intervaltime": 40, "routeid": "GGB236000063", "routeno": 1386, "routetp": "직행좌석버스", "startnodenm": "산정호수.상동주차장", "startvehicletime": "0400"}}}}}

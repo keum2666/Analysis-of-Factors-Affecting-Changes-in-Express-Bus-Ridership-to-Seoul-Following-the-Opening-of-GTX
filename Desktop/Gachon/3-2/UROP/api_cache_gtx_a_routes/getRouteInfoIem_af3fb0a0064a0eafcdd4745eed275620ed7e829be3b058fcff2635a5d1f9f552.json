@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신분당선강남역(중)", "endvehicletime": 2240, "intervalsattime": 160, "intervalsuntime": 160, "intervaltime": 45, "routeid": "GGB233000354", "routeno": "M4449", "routetp": "광역급행버스", "startnodenm": "한신대입구사거리", "startvehicletime": "0510"}}}}}

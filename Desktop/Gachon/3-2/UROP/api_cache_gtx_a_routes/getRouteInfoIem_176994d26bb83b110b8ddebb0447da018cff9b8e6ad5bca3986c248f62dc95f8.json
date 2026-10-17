@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "숭례문", "endvehicletime": "0820", "intervalsattime": 0, "intervalsuntime": 0, "intervaltime": 20, "routeid": "GGB204000190", "routeno": "M4102(예약)", "routetp": "광역급행버스", "startnodenm": "구미동차고지(미정차)", "startvehicletime": "0610"}}}}}

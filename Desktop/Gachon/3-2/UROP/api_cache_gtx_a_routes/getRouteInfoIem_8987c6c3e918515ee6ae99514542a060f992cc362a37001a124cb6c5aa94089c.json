@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "ST송은빌딩", "endvehicletime": 2300, "intervalsattime": 30, "intervalsuntime": 30, "intervaltime": 10, "routeid": "GGB204000024", "routeno": 9407, "routetp": "직행좌석버스", "startnodenm": "구미동차고지앞", "startvehicletime": "0450"}}}}}

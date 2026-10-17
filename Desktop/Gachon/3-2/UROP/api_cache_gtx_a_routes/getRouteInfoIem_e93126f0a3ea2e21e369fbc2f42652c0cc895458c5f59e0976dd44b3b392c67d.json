@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "제일은행.이천터미널", "endvehicletime": 2100, "intervalsattime": 140, "intervalsuntime": 140, "intervaltime": 80, "routeid": "GGB228000425", "routeno": 8203, "routetp": "직행좌석버스", "startnodenm": "안성종합버스터미널", "startvehicletime": "0500"}}}}}

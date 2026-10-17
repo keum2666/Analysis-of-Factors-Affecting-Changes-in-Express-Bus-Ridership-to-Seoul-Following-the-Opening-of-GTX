@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신논현역.인터파크", "endvehicletime": 2355, "intervalsattime": 30, "intervalsuntime": 30, "intervaltime": 10, "routeid": "GGB200000175", "routeno": 5300, "routetp": "직행좌석버스", "startnodenm": "한국양계농협평택유통센터", "startvehicletime": "0500"}}}}}

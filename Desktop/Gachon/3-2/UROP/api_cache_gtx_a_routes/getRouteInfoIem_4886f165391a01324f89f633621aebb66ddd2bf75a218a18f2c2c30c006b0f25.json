@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "서울역버스환승센터(6번승강장)(중)", "endvehicletime": 2250, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 20, "routeid": "GGB200000343", "routeno": "M5165", "routetp": "광역급행버스", "startnodenm": "수원남부버스공영차고지", "startvehicletime": "0450"}}}}}

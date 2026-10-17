@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실종합운동장", "endvehicletime": 2240, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 20, "routeid": "GGB234000027", "routeno": 6900, "routetp": "직행좌석버스", "startnodenm": "광교차고지", "startvehicletime": "0510"}}}}}

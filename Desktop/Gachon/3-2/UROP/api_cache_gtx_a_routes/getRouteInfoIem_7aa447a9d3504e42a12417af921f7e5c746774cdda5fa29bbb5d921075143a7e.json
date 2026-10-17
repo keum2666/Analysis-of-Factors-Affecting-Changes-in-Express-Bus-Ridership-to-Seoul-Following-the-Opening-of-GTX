@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실광역환승센터", "endvehicletime": 2300, "intervalsattime": 25, "intervalsuntime": 25, "intervaltime": 9, "routeid": "GGB234000031", "routeno": "1115-6", "routetp": "직행좌석버스", "startnodenm": "농수산물시장", "startvehicletime": "0525"}}}}}

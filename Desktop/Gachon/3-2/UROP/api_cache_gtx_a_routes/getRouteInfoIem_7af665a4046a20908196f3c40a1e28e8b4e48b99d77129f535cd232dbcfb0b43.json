@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "테크노마트앞.강변역(D)", "endvehicletime": 2300, "intervalsattime": 25, "intervalsuntime": 25, "intervaltime": 10, "routeid": "GGB234001516", "routeno": "1113-2", "routetp": "직행좌석버스", "startnodenm": "광주터미널", "startvehicletime": "0500"}}}}}

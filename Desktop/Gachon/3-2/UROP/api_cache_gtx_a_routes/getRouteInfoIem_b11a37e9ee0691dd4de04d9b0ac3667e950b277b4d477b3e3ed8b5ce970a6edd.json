@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역(중)", "endvehicletime": 2330, "intervalsattime": 30, "intervalsuntime": 30, "intervaltime": 10, "routeid": "GGB200000149", "routeno": 7790, "routetp": "직행좌석버스", "startnodenm": "협성대정문", "startvehicletime": "0500"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "부천터미널소풍", "endvehicletime": 2125, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 25, "routeid": "GGB235000103", "routeno": 8906, "routetp": "직행좌석버스", "startnodenm": "덕정차고지", "startvehicletime": "0355"}}}}}

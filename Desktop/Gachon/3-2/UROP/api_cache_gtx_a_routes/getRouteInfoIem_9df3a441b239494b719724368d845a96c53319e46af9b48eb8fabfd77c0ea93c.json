@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "경진여객차고지", "endvehicletime": 2300, "intervalsattime": 33, "intervalsuntime": 33, "intervaltime": 27, "routeid": "GGB233000271", "routeno": 9802, "routetp": "직행좌석버스", "startnodenm": "서둔동차고지대기(미정차)", "startvehicletime": "0500"}}}}}

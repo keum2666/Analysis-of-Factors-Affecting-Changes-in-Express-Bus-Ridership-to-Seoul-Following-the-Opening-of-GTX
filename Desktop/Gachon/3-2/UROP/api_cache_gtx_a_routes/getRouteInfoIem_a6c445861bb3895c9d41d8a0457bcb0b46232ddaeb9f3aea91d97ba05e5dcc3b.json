@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "고속터미널(중)", "endvehicletime": 2230, "intervalsattime": 60, "intervalsuntime": 60, "intervaltime": 30, "routeid": "GGB235000131", "routeno": 1407, "routetp": "직행좌석버스", "startnodenm": "양주자이6.7단지입구", "startvehicletime": "0500"}}}}}

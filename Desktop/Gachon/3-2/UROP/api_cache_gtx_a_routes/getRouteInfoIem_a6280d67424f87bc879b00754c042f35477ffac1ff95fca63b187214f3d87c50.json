@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "광화문역6번출구.광화문빌딩", "endvehicletime": 2350, "intervalsattime": 45, "intervalsuntime": 45, "intervaltime": 30, "routeid": "GGB229000281", "routeno": "M7154", "routetp": "광역급행버스", "startnodenm": "교하차고지(미정차)", "startvehicletime": "0530"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "부천소방서.부천대학사거리", "endvehicletime": 2240, "intervalsattime": 35, "intervalsuntime": 35, "intervaltime": 15, "routeid": "GGB232000005", "routeno": 9008, "routetp": "직행좌석버스", "startnodenm": "차량대기(미정차)", "startvehicletime": "0430"}}}}}

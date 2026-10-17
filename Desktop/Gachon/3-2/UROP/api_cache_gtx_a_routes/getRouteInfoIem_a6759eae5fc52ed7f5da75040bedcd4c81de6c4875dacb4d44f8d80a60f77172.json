@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신논현역.우신빌딩", "endvehicletime": 2300, "intervalsattime": 30, "intervalsuntime": 30, "intervaltime": 12, "routeid": "GGB227000019", "routeno": 9303, "routetp": "직행좌석버스", "startnodenm": "BRT공영버스차고지(미정차)", "startvehicletime": "0430"}}}}}

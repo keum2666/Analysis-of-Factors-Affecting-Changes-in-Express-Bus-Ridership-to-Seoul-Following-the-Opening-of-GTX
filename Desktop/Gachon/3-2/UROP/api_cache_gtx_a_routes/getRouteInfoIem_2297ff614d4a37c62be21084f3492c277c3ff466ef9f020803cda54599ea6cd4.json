@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "판교역동편", "endvehicletime": 2300, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 15, "routeid": "GGB233000426", "routeno": 6012, "routetp": "직행좌석버스", "startnodenm": "나루마을.월드반도", "startvehicletime": "0510"}}}}}

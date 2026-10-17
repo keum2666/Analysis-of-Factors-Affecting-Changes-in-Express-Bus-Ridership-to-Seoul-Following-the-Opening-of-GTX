@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "현대코아", "endvehicletime": 2200, "intervalsattime": 300, "intervalsuntime": 300, "intervaltime": 0, "routeid": "GGB239000104", "routeno": 8005, "routetp": "직행좌석버스", "startnodenm": "유명산종점", "startvehicletime": "0600"}}}}}

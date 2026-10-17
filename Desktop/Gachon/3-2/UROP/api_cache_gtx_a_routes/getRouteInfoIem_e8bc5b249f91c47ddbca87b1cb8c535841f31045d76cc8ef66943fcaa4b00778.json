@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "광화문역7번출구", "endvehicletime": 2300, "intervalsattime": 45, "intervalsuntime": 45, "intervaltime": 20, "routeid": "GGB232000047", "routeno": 8600, "routetp": "직행좌석버스", "startnodenm": "차량대기(미정차)", "startvehicletime": "0420"}}}}}

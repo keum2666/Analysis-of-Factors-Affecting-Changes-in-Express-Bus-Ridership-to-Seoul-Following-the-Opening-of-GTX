@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "상갈역", "endvehicletime": 2245, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 30, "routeid": "GGB233000327", "routeno": "G6010", "routetp": "직행좌석버스", "startnodenm": "오산역환승센터2층(2승강장)", "startvehicletime": "0500"}}}}}

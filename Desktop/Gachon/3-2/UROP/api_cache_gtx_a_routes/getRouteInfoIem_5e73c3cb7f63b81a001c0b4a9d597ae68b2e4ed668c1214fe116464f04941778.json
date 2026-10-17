@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "수원역10번출구.역전시장", "endvehicletime": 2120, "intervalsattime": 180, "intervalsuntime": 180, "intervaltime": 180, "routeid": "GGB216000070", "routeno": 1200, "routetp": "직행좌석버스", "startnodenm": "원시역1번출구", "startvehicletime": "0500"}}}}}

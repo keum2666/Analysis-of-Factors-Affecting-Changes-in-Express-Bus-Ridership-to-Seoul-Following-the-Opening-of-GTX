@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "한국거래소", "endvehicletime": 2200, "intervalsattime": 90, "intervalsuntime": 90, "intervaltime": 30, "routeid": "GGB228000393", "routeno": "7007-1", "routetp": "직행좌석버스", "startnodenm": "단국대.치과병원", "startvehicletime": "0500"}}}}}

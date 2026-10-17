@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역(중)", "endvehicletime": 2350, "intervalsattime": 12, "intervalsuntime": 12, "intervaltime": 1, "routeid": "GGB200000150", "routeno": 7800, "routetp": "직행좌석버스", "startnodenm": "호매실동차고지", "startvehicletime": "0500"}}}}}

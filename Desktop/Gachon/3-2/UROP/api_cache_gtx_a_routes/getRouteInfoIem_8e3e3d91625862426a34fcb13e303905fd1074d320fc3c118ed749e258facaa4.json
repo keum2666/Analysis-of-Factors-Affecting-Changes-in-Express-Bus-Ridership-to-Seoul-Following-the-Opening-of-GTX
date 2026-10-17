@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "서초아트자이아파트", "endvehicletime": 2300, "intervalsattime": 35, "intervalsuntime": 35, "intervaltime": 7, "routeid": "GGB233000321", "routeno": 6008, "routetp": "직행좌석버스", "startnodenm": "동탄2차고지", "startvehicletime": "0500"}}}}}

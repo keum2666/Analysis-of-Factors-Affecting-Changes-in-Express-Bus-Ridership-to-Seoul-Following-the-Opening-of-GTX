@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "인덕원역1번출구", "endvehicletime": 2120, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 40, "routeid": "GGB233000325", "routeno": 7200, "routetp": "직행좌석버스", "startnodenm": "동탄2차고지(미정차)", "startvehicletime": "0520"}}}}}

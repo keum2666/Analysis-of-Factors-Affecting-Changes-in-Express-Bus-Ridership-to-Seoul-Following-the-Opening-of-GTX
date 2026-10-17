@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신도림역", "endvehicletime": 2320, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 15, "routeid": "GGB224000052", "routeno": 5200, "routetp": "직행좌석버스", "startnodenm": "시흥우체국.센트럴병원", "startvehicletime": "0500"}}}}}

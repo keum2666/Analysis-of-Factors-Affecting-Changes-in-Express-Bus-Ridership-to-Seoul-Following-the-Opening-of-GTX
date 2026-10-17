@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "광화문역7번출구", "endvehicletime": 2300, "intervalsattime": 45, "intervalsuntime": 45, "intervaltime": 20, "routeid": "GGB232000118", "routeno": "G6005", "routetp": "직행좌석버스", "startnodenm": "홈플러스.산림조합", "startvehicletime": "0420"}}}}}

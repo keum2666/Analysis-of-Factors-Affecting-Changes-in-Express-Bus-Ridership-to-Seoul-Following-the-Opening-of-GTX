@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "안양역", "endvehicletime": 2320, "intervalsattime": 30, "intervalsuntime": 30, "intervaltime": 10, "routeid": "GGB205000002", "routeno": 333, "routetp": "직행좌석버스", "startnodenm": "자동차검사소.산성아파트", "startvehicletime": "0450"}}}}}

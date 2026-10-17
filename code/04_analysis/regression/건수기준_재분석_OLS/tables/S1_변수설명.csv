@@ -1,0 +1,11 @@
+﻿변수,단위,설명
+셀 ID ~ ic_access,,기존 GTX_A_126_분석데이터.csv 값 그대로 (교통카드와 무관)
+board_2024,건,2024-10-17 격자 정류장 승차 건수(교통카드 행 수)
+board_2025,건,2025-11-06 격자 정류장 승차 건수(교통카드 행 수)
+change,건,board_2025 - board_2024
+change_rate_pct,%,100*change/board_2024
+station_change_rate_pct,%,권역 합계 건수로 계산한 변화율
+relative_change_pp,%p,격자 변화율 - 권역 변화율
+competing_share,%,2024 하차좌표가 있는 승차 건수 중 연신내역·서울역 반경 1km 하차 건수 비율
+bus_time_mean,분,2024 유효 통행시간(0초과 240분 이하)의 건수 기준 평균
+[이용인원]…,,비교용: 기존 utztn_nope 합계/가중 기준 값

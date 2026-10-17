@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "홍대입구", "endvehicletime": 2320, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 20, "routeid": "GGB229000316", "routeno": "2200-1", "routetp": "직행좌석버스", "startnodenm": "교하파출소", "startvehicletime": "0440"}}}}}

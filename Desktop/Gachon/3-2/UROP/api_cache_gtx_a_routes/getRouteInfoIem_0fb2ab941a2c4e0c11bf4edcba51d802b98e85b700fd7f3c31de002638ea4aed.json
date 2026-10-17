@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "삼성서초역삼세무서", "endvehicletime": 2320, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 15, "routeid": "GGB224000050", "routeno": 3400, "routetp": "직행좌석버스", "startnodenm": "한국공학대학교.시흥터미널", "startvehicletime": "0540"}}}}}

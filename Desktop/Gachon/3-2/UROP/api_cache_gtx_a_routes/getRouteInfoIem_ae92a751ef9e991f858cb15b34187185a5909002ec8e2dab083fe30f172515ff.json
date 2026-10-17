@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "지하철2호선강남역(중)", "endvehicletime": 2300, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 15, "routeid": "GGB234000136", "routeno": 1550, "routetp": "직행좌석버스", "startnodenm": "광교차고지", "startvehicletime": "0515"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "서울역버스환승센터(6번승강장)(중)", "endvehicletime": "0045", "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 12, "routeid": "GGB234000309", "routeno": 9301, "routetp": "직행좌석버스", "startnodenm": "상산곡동.공영차고지", "startvehicletime": "0430"}}}}}

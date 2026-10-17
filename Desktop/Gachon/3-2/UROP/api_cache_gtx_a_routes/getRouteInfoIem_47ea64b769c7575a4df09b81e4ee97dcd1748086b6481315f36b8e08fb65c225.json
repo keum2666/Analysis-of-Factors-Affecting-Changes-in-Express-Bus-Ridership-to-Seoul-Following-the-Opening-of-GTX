@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역나라빌딩앞", "intervalsattime": 25, "intervalsuntime": 25, "intervaltime": 8, "routeid": "GGB200000110", "routeno": 3007, "routetp": "직행좌석버스", "startnodenm": "수원버스터미널", "startvehicletime": "0520"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "청담초등학교앞", "endvehicletime": 2220, "intervalsattime": 60, "intervalsuntime": 60, "intervaltime": 25, "routeid": "GGB204000065", "routeno": 9607, "routetp": "직행좌석버스", "startnodenm": "성우스타우스", "startvehicletime": "0450"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "불암산역", "endvehicletime": 2315, "intervalsattime": 45, "intervalsuntime": 45, "intervaltime": 19, "routeid": "GGB222000177", "routeno": 105, "routetp": "직행좌석버스", "startnodenm": "진벌리차고지(미정차)", "startvehicletime": "0500"}}}}}

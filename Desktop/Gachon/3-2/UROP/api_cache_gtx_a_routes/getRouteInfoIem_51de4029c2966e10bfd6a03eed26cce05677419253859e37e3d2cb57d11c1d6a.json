@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "양재역", "endvehicletime": 2100, "intervaltime": 40, "routeid": "GGB234001743", "routeno": "신현양재MDRT", "routetp": "직행좌석버스", "startnodenm": "광명초등학교", "startvehicletime": "0620"}}}}}

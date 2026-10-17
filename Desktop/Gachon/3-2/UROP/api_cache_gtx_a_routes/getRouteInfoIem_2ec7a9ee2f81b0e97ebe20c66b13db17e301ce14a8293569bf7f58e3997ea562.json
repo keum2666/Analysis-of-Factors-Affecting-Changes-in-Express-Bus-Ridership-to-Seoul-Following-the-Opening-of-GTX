@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "테크노마트앞.강변역(C)", "endvehicletime": "0750", "intervaltime": 50, "routeid": "GGB228000427", "routeno": "5600(급행)", "routetp": "직행좌석버스", "startnodenm": "용인공영버스터미널.용인드마크데시앙앞", "startvehicletime": "0640"}}}}}

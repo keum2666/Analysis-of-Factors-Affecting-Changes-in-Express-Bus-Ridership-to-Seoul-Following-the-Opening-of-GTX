@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "동탄역(동측)", "endvehicletime": 2220, "intervalsattime": 80, "intervalsuntime": 80, "intervaltime": 50, "routeid": "GGB234001737", "routeno": 8202, "routetp": "직행좌석버스", "startnodenm": "안성종합버스터미널", "startvehicletime": "0530"}}}}}

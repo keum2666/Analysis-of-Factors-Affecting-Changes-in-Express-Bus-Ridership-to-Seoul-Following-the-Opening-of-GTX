@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "양재역.서초문화예술회관(중)", "endvehicletime": 2130, "intervalsattime": 60, "intervalsuntime": 60, "intervaltime": 20, "routeid": "GGB234001705", "routeno": 3800, "routetp": "직행좌석버스", "startnodenm": "관음3교", "startvehicletime": "0530"}}}}}

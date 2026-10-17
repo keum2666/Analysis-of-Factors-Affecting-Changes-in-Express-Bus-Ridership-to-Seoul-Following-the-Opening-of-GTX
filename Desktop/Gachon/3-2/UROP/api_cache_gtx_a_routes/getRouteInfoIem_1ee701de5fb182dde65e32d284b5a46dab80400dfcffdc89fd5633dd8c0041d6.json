@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "서울역버스환승센터(5번승강장)(중)", "endvehicletime": "0720", "intervaltime": 20, "routeid": "GGB228000447", "routeno": "5005(거점)", "routetp": "직행좌석버스", "startnodenm": "강남대역.강남대입구", "startvehicletime": "0640"}}}}}

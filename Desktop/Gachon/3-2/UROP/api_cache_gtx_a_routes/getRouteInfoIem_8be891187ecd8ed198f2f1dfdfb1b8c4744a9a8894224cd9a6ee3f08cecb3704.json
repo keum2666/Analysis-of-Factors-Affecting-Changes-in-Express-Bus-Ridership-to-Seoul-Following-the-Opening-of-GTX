@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "석수역1호선", "endvehicletime": 2200, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 20, "routeid": "GGB224000071", "routeno": 3401, "routetp": "직행좌석버스", "startnodenm": "이마트", "startvehicletime": "0530"}}}}}

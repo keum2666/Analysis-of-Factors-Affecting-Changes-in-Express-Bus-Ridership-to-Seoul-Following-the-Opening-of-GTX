@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신분당선강남역(중)", "endvehicletime": 2200, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 20, "routeid": "GGB231000139", "routeno": 4402, "routetp": "직행좌석버스", "startnodenm": "동아방송예술대학교시외버스정류장", "startvehicletime": "0500"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "광화문역6번출구", "intervalsattime": 45, "intervalsuntime": 45, "intervaltime": 25, "routeid": "GGB229000023", "routeno": 9710, "routetp": "직행좌석버스", "startnodenm": "문산읍행정복지센터", "startvehicletime": "0500"}}}}}

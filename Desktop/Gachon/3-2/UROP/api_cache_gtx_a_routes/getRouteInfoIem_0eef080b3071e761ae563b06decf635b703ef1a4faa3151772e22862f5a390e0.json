@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역3번출구", "endvehicletime": 2120, "intervaltime": 20, "routeid": "GGB233000393", "routeno": "화성시광역콜버스", "routetp": "직행좌석버스", "startnodenm": "협성대정문", "startvehicletime": "0700"}}}}}

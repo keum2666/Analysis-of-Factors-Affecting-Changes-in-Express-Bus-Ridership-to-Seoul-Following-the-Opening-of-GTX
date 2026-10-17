@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "선일초등학교", "endvehicletime": 1910, "intervaltime": 60, "routeid": "GGB233000356", "routeno": "P9110(퇴근)", "routetp": "직행좌석버스", "startnodenm": "서울역버스환승센터(6번승강장)(중)", "startvehicletime": 1810}}}}}

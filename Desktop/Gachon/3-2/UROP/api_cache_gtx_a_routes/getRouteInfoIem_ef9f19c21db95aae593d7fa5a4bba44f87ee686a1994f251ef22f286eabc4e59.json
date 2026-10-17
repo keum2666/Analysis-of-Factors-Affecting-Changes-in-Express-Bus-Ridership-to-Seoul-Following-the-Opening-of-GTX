@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역티월드", "endvehicletime": 2250, "intervalsattime": 65, "intervalsuntime": 65, "intervaltime": 5, "routeid": "GGB233000265", "routeno": 4403, "routetp": "직행좌석버스", "startnodenm": "나루마을.월드반도", "startvehicletime": "0530"}}}}}

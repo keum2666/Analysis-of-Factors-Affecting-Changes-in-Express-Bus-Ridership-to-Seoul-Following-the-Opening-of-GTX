@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "강남역우리은행", "endvehicletime": 2300, "intervalsattime": 27, "intervalsuntime": 27, "intervaltime": 5, "routeid": "GGB234001163", "routeno": 6501, "routetp": "직행좌석버스", "startnodenm": "부곡공영차고지(미정차)", "startvehicletime": "0520"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "안양역", "endvehicletime": 2235, "intervalsattime": 18, "intervalsuntime": 18, "intervaltime": 6, "routeid": "GGB234000050", "routeno": 1650, "routetp": "직행좌석버스", "startnodenm": "구리수택차고지", "startvehicletime": "0410"}}}}}

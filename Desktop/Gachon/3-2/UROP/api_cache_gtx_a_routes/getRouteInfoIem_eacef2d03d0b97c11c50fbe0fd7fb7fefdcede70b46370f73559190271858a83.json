@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "창현고교.아주대학교.유신고교", "endvehicletime": 2300, "intervalsattime": 100, "intervalsuntime": 100, "intervaltime": 20, "routeid": "GGB228000411", "routeno": 6800, "routetp": "직행좌석버스", "startnodenm": "안중공용터미널", "startvehicletime": "0530"}}}}}

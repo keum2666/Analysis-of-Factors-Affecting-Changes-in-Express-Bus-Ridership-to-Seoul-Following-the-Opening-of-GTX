@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실역.잠실대교남단(중)", "endvehicletime": 2250, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 15, "routeid": "GGB235000123", "routeno": 1306, "routetp": "직행좌석버스", "startnodenm": "덕정차고지(미정차)", "startvehicletime": "0500"}}}}}

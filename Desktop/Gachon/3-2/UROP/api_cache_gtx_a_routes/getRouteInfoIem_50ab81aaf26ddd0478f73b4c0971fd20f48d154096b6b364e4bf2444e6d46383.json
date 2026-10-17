@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실역.롯데월드", "endvehicletime": 2150, "intervalsattime": 340, "intervalsuntime": 340, "intervaltime": 210, "routeid": "GGB239000139", "routeno": 7000, "routetp": "직행좌석버스", "startnodenm": "가평터미널", "startvehicletime": "0630"}}}}}

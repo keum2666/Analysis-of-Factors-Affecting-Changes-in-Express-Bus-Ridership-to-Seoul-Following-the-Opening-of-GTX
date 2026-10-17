@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역(중)", "endvehicletime": 2250, "intervalsattime": 45, "intervalsuntime": 45, "intervaltime": 10, "routeid": "GGB233000258", "routeno": 8156, "routetp": "직행좌석버스", "startnodenm": "제약공단공원", "startvehicletime": "0515"}}}}}

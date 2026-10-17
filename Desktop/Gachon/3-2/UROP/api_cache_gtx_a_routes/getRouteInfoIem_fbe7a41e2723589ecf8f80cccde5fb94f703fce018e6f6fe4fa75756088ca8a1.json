@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신논현역.금강빌딩", "endvehicletime": 2350, "intervalsattime": 25, "intervalsuntime": 25, "intervaltime": 9, "routeid": "GGB234000324", "routeno": "1550-1", "routetp": "직행좌석버스", "startnodenm": "한신대스쿨버스정류장", "startvehicletime": "0500"}}}}}

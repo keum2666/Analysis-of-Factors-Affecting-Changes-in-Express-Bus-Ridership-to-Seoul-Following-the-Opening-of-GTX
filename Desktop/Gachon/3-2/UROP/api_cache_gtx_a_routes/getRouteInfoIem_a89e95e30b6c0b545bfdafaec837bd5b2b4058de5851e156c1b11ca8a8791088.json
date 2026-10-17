@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "고속터미널(중)", "endvehicletime": 2200, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 25, "routeid": "GGB236000234", "routeno": 1403, "routetp": "직행좌석버스", "startnodenm": "경복대.포천캠퍼스입구", "startvehicletime": "0500"}}}}}

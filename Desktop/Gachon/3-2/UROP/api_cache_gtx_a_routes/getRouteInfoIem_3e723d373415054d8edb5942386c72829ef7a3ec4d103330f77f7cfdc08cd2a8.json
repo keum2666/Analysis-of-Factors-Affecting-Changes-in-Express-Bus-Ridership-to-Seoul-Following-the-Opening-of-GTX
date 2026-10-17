@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실광역환승센터", "endvehicletime": 2230, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 15, "routeid": "GGB208000063", "routeno": "M5333", "routetp": "광역급행버스", "startnodenm": "평촌차고지(미정차)", "startvehicletime": "0500"}}}}}

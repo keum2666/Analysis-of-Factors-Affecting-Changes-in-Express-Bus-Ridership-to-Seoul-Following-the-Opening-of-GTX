@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "월암종점", "endvehicletime": 1900, "intervaltime": 30, "routeid": "GGB226000035", "routeno": "P9901(퇴근)", "routetp": "직행좌석버스", "startnodenm": "서현역.분당우체국", "startvehicletime": 1810}}}}}

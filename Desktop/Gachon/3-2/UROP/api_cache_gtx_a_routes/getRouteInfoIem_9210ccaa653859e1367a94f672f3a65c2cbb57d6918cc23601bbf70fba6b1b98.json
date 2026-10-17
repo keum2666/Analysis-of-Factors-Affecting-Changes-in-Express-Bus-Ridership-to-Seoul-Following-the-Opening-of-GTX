@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "수원역4번출구.노보텔수원", "endvehicletime": 2100, "intervalsattime": 100, "intervalsuntime": 100, "intervaltime": 30, "routeid": "GGB234001246", "routeno": 8409, "routetp": "직행좌석버스", "startnodenm": "낙양동공영차고지", "startvehicletime": "0400"}}}}}

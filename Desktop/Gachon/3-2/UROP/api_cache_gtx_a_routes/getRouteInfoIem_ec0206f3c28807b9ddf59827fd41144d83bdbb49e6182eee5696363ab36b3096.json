@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "학동역", "endvehicletime": 2220, "intervalsattime": 43, "intervalsuntime": 43, "intervaltime": 15, "routeid": "GGB227000035", "routeno": 9202, "routetp": "직행좌석버스", "startnodenm": "상산곡동.공영차고지", "startvehicletime": "0430"}}}}}

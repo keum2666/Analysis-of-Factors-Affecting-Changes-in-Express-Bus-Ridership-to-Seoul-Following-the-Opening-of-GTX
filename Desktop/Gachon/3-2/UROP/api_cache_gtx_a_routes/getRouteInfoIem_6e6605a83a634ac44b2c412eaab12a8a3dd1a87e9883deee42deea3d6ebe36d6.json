@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실광역환승센터", "endvehicletime": 2305, "intervalsattime": 40, "intervalsuntime": 40, "intervaltime": 10, "routeid": "GGB222000105", "routeno": "M2316", "routetp": "광역급행버스", "startnodenm": "영남아파트.풍림아이원아파트", "startvehicletime": "0500"}}}}}

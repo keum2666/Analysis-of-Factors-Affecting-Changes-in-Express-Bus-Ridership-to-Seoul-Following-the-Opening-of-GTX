@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "신논현역", "endvehicletime": 2300, "intervalsattime": 20, "intervalsuntime": 20, "intervaltime": 10, "routeid": "GGB228000183", "routeno": "5002B", "routetp": "직행좌석버스", "startnodenm": "남동차고지", "startvehicletime": 1300}}}}}

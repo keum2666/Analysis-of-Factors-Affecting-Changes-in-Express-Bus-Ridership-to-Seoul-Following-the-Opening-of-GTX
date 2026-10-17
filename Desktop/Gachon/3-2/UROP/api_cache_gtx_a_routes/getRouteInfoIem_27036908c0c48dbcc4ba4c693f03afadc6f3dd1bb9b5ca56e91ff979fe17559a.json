@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "서울역버스환승센터(5번승강장)(중)", "endvehicletime": "0730", "intervalsattime": 0, "intervalsuntime": 0, "intervaltime": 0, "routeid": "GGB228000436", "routeno": "5000(예약)", "routetp": "직행좌석버스", "startnodenm": "수원컨트리클럽", "startvehicletime": "0730"}}}}}

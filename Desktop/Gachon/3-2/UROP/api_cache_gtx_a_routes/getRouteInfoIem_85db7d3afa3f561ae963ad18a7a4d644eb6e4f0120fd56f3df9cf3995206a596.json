@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실역.잠실대교남단(중)", "endvehicletime": 2230, "intervalsattime": 55, "intervalsuntime": 55, "intervaltime": 15, "routeid": "GGB234001736", "routeno": 3302, "routetp": "직행좌석버스", "startnodenm": "고산2통마을회관.오포자이디오브", "startvehicletime": "0500"}}}}}

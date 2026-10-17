@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "사당역3번출구", "endvehicletime": 2300, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 10, "routeid": "GGB216000089", "routeno": 6501, "routetp": "직행좌석버스", "startnodenm": "시흥능곡역2번출구", "startvehicletime": "0450"}}}}}

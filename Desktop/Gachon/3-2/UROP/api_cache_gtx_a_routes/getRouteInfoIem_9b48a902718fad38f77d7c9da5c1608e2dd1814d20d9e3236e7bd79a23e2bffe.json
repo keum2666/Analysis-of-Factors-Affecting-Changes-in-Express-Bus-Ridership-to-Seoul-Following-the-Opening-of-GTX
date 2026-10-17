@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "서울역버스환승센터(5번승강장)(중)", "endvehicletime": 2250, "intervalsattime": 30, "intervalsuntime": 30, "intervaltime": 5, "routeid": "GGB204000070", "routeno": 9007, "routetp": "직행좌석버스", "startnodenm": "운중동먹거리촌", "startvehicletime": "0500"}}}}}

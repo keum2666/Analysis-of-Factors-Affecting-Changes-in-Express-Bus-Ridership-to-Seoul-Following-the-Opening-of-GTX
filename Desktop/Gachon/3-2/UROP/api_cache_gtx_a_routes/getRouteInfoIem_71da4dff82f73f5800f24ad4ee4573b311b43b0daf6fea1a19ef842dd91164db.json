@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "당산역광역환승센터(1번승강장)", "endvehicletime": 2300, "intervalsattime": 20, "intervalsuntime": 20, "intervaltime": 10, "routeid": "GGB232000152", "routeno": 7100, "routetp": "직행좌석버스", "startnodenm": "구래리차고지", "startvehicletime": "0450"}}}}}

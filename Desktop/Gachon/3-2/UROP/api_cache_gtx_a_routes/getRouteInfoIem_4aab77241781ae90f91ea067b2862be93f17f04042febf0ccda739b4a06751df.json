@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "수원버스터미널", "endvehicletime": 2230, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 30, "routeid": "GGB204000056", "routeno": 4500, "routetp": "직행좌석버스", "startnodenm": "사송동종점", "startvehicletime": "0440"}}}}}

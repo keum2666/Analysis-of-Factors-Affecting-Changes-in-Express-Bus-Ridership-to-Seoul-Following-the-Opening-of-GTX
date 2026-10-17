@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "국가기록원성남분원.코이카", "endvehicletime": 2210, "intervalsattime": 100, "intervalsuntime": 100, "intervaltime": 30, "routeid": "GGB224000067", "routeno": 3202, "routetp": "직행좌석버스", "startnodenm": "시흥공영차고지대기(미정차)", "startvehicletime": "0600"}}}}}

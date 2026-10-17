@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "동안경찰서.범계역", "endvehicletime": 2140, "intervalsattime": 50, "intervalsuntime": 50, "intervaltime": 30, "routeid": "GGB210000108", "routeno": "G8808", "routetp": "직행좌석버스", "startnodenm": "대장공영차고지", "startvehicletime": "0510"}}}}}

@@ -1,1 +1,0 @@
-{"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."}, "body": {"items": {"item": {"endnodenm": "잠실역", "endvehicletime": 2315, "intervalsattime": 60, "intervalsuntime": 60, "intervaltime": 30, "routeid": "GGB227000039", "routeno": "9303-1", "routetp": "직행좌석버스", "startnodenm": "BRT공영버스차고지(미정차)", "startvehicletime": "0500"}}}}}
