@@ -1,0 +1,9 @@
+{
+  "source": "/Users/keumkyounghoon/Downloads/마을버스_노트북이전",
+  "preservation_verified_files": 531,
+  "deletion_requested": true,
+  "deleted": false,
+  "error_type": "PermissionError",
+  "error": "[Errno 1] Operation not permitted: 'S4c_설명력_탐색.csv'",
+  "remaining_source_files": 531
+}

@@ -1,0 +1,344 @@
+[
+  {
+    "script": "s10_12_feeder_final.py",
+    "source": "건수기준_재분석/10_가설검증/tables",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/results/analysis/feeder_bus/tables",
+    "exists": true
+  },
+  {
+    "script": "s10_12_feeder_final.py",
+    "source": "건수기준_재분석/tables/S1_126격자_건수기준_기초표.csv",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/final/gtx_a/S1_126격자_건수기준_기초표.csv",
+    "exists": true
+  },
+  {
+    "script": "s10_12_feeder_final.py",
+    "source": "건수기준_재분석/05_변수확장/tables/S5_후보변수_126격자.csv",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/feeder_bus/support/feature_expansion/S5_후보변수_126격자.csv",
+    "exists": true
+  },
+  {
+    "script": "s10_1_feeder_extract.py",
+    "source": "건수기준_재분석/10_가설검증/tables",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/results/analysis/feeder_bus/tables",
+    "exists": true
+  },
+  {
+    "script": "s10_1_feeder_extract.py",
+    "source": "gtx_a_seoul_bus_outputs/transport_card/gtx_a_transport_card_20241017_raw_with_coords_api_filled.csv",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/raw/gtx_a/transport_card/gtx_a_transport_card_20241017_raw_with_coords_api_filled.csv",
+    "exists": true
+  },
+  {
+    "script": "s10_1_feeder_extract.py",
+    "source": "건수기준_재분석/tables/S1_126격자_건수기준_기초표.csv",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/final/gtx_a/S1_126격자_건수기준_기초표.csv",
+    "exists": true
+  },
+  {
+    "script": "s10_1_feeder_extract.py",
+    "source": "data/processed/17_*",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/17_*",
+    "exists": true
+  },
+  {
+    "script": "s10_1_feeder_extract.py",
+    "source": "data/processed/16_*",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/16_*",
+    "exists": true
+  },
+  {
+    "script": "s10_11_feeder_dv_same_supply.py",
+    "source": "건수기준_재분석/10_가설검증/raw",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/raw/gtx_a/feeder_bus/transport_card",
+    "exists": true
+  },
+  {
+    "script": "s10_11_feeder_dv_same_supply.py",
+    "source": "건수기준_재분석/10_가설검증/stops",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/feeder_bus/stops",
+    "exists": true
+  },
+  {
+    "script": "s10_11_feeder_dv_same_supply.py",
+    "source": "건수기준_재분석/10_가설검증/tables",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/results/analysis/feeder_bus/tables",
+    "exists": true
+  },
+  {
+    "script": "s10_11_feeder_dv_same_supply.py",
+    "source": "gtx_a_seoul_bus_outputs/transport_card",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/raw/gtx_a/transport_card",
+    "exists": true
+  },
+  {
+    "script": "s10_11_feeder_dv_same_supply.py",
+    "source": "건수기준_재분석/tables/S1_126격자_건수기준_기초표.csv",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/final/gtx_a/S1_126격자_건수기준_기초표.csv",
+    "exists": true
+  },
+  {
+    "script": "s10_11_feeder_dv_same_supply.py",
+    "source": "data/processed",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a",
+    "exists": true
+  },
+  {
+    "script": "s10_6_feeder_analysis.py",
+    "source": "건수기준_재분석/10_가설검증/raw",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/raw/gtx_a/feeder_bus/transport_card",
+    "exists": true
+  },
+  {
+    "script": "s10_6_feeder_analysis.py",
+    "source": "건수기준_재분석/10_가설검증/tables",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/results/analysis/feeder_bus/tables",
+    "exists": true
+  },
+  {
+    "script": "s10_6_feeder_analysis.py",
+    "source": "gtx_a_seoul_bus_outputs/transport_card",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/raw/gtx_a/transport_card",
+    "exists": true
+  },
+  {
+    "script": "s10_6_feeder_analysis.py",
+    "source": "건수기준_재분석/10_가설검증/stops/2025_신설정류장_좌표_GBIS.csv",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/feeder_bus/stops/2025_신설정류장_좌표_GBIS.csv",
+    "exists": true
+  },
+  {
+    "script": "s10_6_feeder_analysis.py",
+    "source": "건수기준_재분석/04_상대유지/tables/F0_분석용_데이터_126격자.csv",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/feeder_bus/support/relative_change/F0_분석용_데이터_126격자.csv",
+    "exists": true
+  },
+  {
+    "script": "s10_6_feeder_analysis.py",
+    "source": "data/processed/16_*",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/16_*",
+    "exists": true
+  },
+  {
+    "script": "s10_6_feeder_analysis.py",
+    "source": "data/processed/17_*",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/17_*",
+    "exists": true
+  },
+  {
+    "script": "s10_14_pop2025.py",
+    "source": "건수기준_재분석/10_가설검증/tables",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/results/analysis/feeder_bus/tables",
+    "exists": true
+  },
+  {
+    "script": "s10_14_pop2025.py",
+    "source": "data/raw/sgis_2024",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/raw/gtx_a/sgis_2024",
+    "exists": true
+  },
+  {
+    "script": "s10_14_pop2025.py",
+    "source": "data/raw/sgis_2025",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/raw/gtx_a/sgis_2025",
+    "exists": true
+  },
+  {
+    "script": "s10_14_pop2025.py",
+    "source": "건수기준_재분석/tables/S1_126격자_건수기준_기초표.csv",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/final/gtx_a/S1_126격자_건수기준_기초표.csv",
+    "exists": true
+  },
+  {
+    "script": "s10_4_collect_feeder.py",
+    "source": "건수기준_재분석/10_가설검증/raw",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/raw/gtx_a/feeder_bus/transport_card",
+    "exists": true
+  },
+  {
+    "script": "s10_4_collect_feeder.py",
+    "source": "건수기준_재분석/10_가설검증/tables",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/results/analysis/feeder_bus/tables",
+    "exists": true
+  },
+  {
+    "script": "s10_4_collect_feeder.py",
+    "source": ".env",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/.env",
+    "exists": true
+  },
+  {
+    "script": "s10_4_collect_feeder.py",
+    "source": ".env",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/.env",
+    "exists": true
+  },
+  {
+    "script": "s10_10_peak_matching.py",
+    "source": "건수기준_재분석/10_가설검증/raw",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/raw/gtx_a/feeder_bus/transport_card",
+    "exists": true
+  },
+  {
+    "script": "s10_10_peak_matching.py",
+    "source": "건수기준_재분석/10_가설검증/stops",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/feeder_bus/stops",
+    "exists": true
+  },
+  {
+    "script": "s10_10_peak_matching.py",
+    "source": "건수기준_재분석/10_가설검증/tables",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/results/analysis/feeder_bus/tables",
+    "exists": true
+  },
+  {
+    "script": "s10_10_peak_matching.py",
+    "source": "건수기준_재분석/10_가설검증/figures",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/results/analysis/feeder_bus/figures",
+    "exists": true
+  },
+  {
+    "script": "s10_10_peak_matching.py",
+    "source": "gtx_a_seoul_bus_outputs/transport_card",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/raw/gtx_a/transport_card",
+    "exists": true
+  },
+  {
+    "script": "s10_10_peak_matching.py",
+    "source": "건수기준_재분석/tables/S1_126격자_건수기준_기초표.csv",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/final/gtx_a/S1_126격자_건수기준_기초표.csv",
+    "exists": true
+  },
+  {
+    "script": "s10_10_peak_matching.py",
+    "source": "data/processed",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a",
+    "exists": true
+  },
+  {
+    "script": "s10_15_spearman_fig.py",
+    "source": "건수기준_재분석/10_가설검증/tables",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/results/analysis/feeder_bus/tables",
+    "exists": true
+  },
+  {
+    "script": "s10_15_spearman_fig.py",
+    "source": "건수기준_재분석/10_가설검증/figures",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/results/analysis/feeder_bus/figures",
+    "exists": true
+  },
+  {
+    "script": "s10_3_feeder_route_list.py",
+    "source": "건수기준_재분석/10_가설검증/tables",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/results/analysis/feeder_bus/tables",
+    "exists": true
+  },
+  {
+    "script": "s10_3_feeder_route_list.py",
+    "source": "gtx_a_seoul_bus_outputs/transport_card/gtx_a_transport_card_20241017_raw_with_coords_api_filled.csv",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/raw/gtx_a/transport_card/gtx_a_transport_card_20241017_raw_with_coords_api_filled.csv",
+    "exists": true
+  },
+  {
+    "script": "s10_3_feeder_route_list.py",
+    "source": "data/processed/17_*",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/17_*",
+    "exists": true
+  },
+  {
+    "script": "s10_3_feeder_route_list.py",
+    "source": "data/processed/16_*",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/16_*",
+    "exists": true
+  },
+  {
+    "script": "s10_13_feeder_eda_vars.py",
+    "source": "건수기준_재분석/10_가설검증/raw",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/raw/gtx_a/feeder_bus/transport_card",
+    "exists": true
+  },
+  {
+    "script": "s10_13_feeder_eda_vars.py",
+    "source": "건수기준_재분석/10_가설검증/stops",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/feeder_bus/stops",
+    "exists": true
+  },
+  {
+    "script": "s10_13_feeder_eda_vars.py",
+    "source": "건수기준_재분석/10_가설검증/tables",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/results/analysis/feeder_bus/tables",
+    "exists": true
+  },
+  {
+    "script": "s10_13_feeder_eda_vars.py",
+    "source": "건수기준_재분석/10_가설검증/figures",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/results/analysis/feeder_bus/figures",
+    "exists": true
+  },
+  {
+    "script": "s10_13_feeder_eda_vars.py",
+    "source": "건수기준_재분석/tables/S1_126격자_건수기준_기초표.csv",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/final/gtx_a/S1_126격자_건수기준_기초표.csv",
+    "exists": true
+  },
+  {
+    "script": "s10_13_feeder_eda_vars.py",
+    "source": "건수기준_재분석/05_변수확장/tables/S5_후보변수_126격자.csv",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/feeder_bus/support/feature_expansion/S5_후보변수_126격자.csv",
+    "exists": true
+  },
+  {
+    "script": "s10_13_feeder_eda_vars.py",
+    "source": "data/processed",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a",
+    "exists": true
+  },
+  {
+    "script": "s10_13_feeder_eda_vars.py",
+    "source": "data/processed/26_*",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/26_*",
+    "exists": true
+  },
+  {
+    "script": "s10_13_feeder_eda_vars.py",
+    "source": "data/processed/07_*",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/07_*",
+    "exists": true
+  },
+  {
+    "script": "s10_13_feeder_eda_vars.py",
+    "source": "data/processed/12_*",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/12_*",
+    "exists": true
+  },
+  {
+    "script": "s10_8_station_name_ols.py",
+    "source": "건수기준_재분석/10_가설검증/raw",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/raw/gtx_a/feeder_bus/transport_card",
+    "exists": true
+  },
+  {
+    "script": "s10_8_station_name_ols.py",
+    "source": "건수기준_재분석/10_가설검증/stops",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a/feeder_bus/stops",
+    "exists": true
+  },
+  {
+    "script": "s10_8_station_name_ols.py",
+    "source": "건수기준_재분석/10_가설검증/tables",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/results/analysis/feeder_bus/tables",
+    "exists": true
+  },
+  {
+    "script": "s10_8_station_name_ols.py",
+    "source": "건수기준_재분석/tables/S1_126격자_건수기준_기초표.csv",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/final/gtx_a/S1_126격자_건수기준_기초표.csv",
+    "exists": true
+  },
+  {
+    "script": "s10_8_station_name_ols.py",
+    "source": "data/processed",
+    "resolved": "/Users/keumkyounghoon/Desktop/Gachon/3-2/UROP/data/processed/gtx_a",
+    "exists": true
+  }
+]

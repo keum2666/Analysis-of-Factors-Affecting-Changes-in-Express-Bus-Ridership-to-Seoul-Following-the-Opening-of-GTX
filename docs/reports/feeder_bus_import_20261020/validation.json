@@ -1,0 +1,197 @@
+{
+  "temporary_workspace": "/var/folders/jg/ptttjs155qxf5nf4wn5358480000gn/T/feeder_transfer_check_8bi3ptvx",
+  "runs": [
+    {
+      "script": "s10_6_feeder_analysis.py",
+      "exit_code": 1
+    },
+    {
+      "script": "s10_8_station_name_ols.py",
+      "exit_code": 1
+    },
+    {
+      "script": "s10_10_peak_matching.py",
+      "exit_code": 1
+    },
+    {
+      "script": "s10_11_feeder_dv_same_supply.py",
+      "exit_code": 1
+    },
+    {
+      "script": "s10_14_pop2025.py",
+      "exit_code": 0
+    },
+    {
+      "script": "s10_12_feeder_final.py",
+      "exit_code": 0
+    },
+    {
+      "script": "s10_13_feeder_eda_vars.py",
+      "exit_code": 1
+    },
+    {
+      "script": "s10_15_spearman_fig.py",
+      "exit_code": 0
+    }
+  ],
+  "tables": [
+    {
+      "file": "H12d_광역vsGTX역행_순위상관.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H12c_GTX역행마을버스_OLS_VIF.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H8a_역이름_하차정류장별_건수.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H12a_GTX역행마을버스_OLS_계수.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H13a_EDA_권역별_분포.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H10b_출근비율_광역vsGTX역행.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H12i_겹치는격자_목록.csv",
+      "matches": true,
+      "detail": "동률 정렬 순서만 다름. 셀 ID 정렬 후 모든 값 일치."
+    },
+    {
+      "file": "H1b_추출점검.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H12b_GTX역행마을버스_OLS_적합도.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H13b_EDA_노선별_GTX역행.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H12g_보행시간_3구간더미점검.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H15_광역감소5묶음_GTX역행.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H12j_지도용_126격자_좌표.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H12e_보행시간구간별_GTX역행.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H6b_권역별_연계버스_전후.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H13d_EDA_탑승시간vs보행시간.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H10a_권역x시간대_광역vsGTX역행.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H12h_겹치는격자_광역비교.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H1a_격자별_역행연계버스.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H6a_격자별_연계버스_전후.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H13f_연계노선별_이용건수_2025.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H14_격자별_20~50대인구_2025.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H8b_격자별_역이름_마을버스.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H12f_보행시간_더미점검.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H11a_격자별_공급구조_GTX역행.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H13e_변수시험_하나씩.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H3a_GTX역연계_후보노선_TCN2024.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H10c_격자상관_출근vs그외.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H13c_EDA_상위격자.csv",
+      "matches": true,
+      "detail": ""
+    },
+    {
+      "file": "H3b_신설연계노선.csv",
+      "matches": true,
+      "detail": ""
+    }
+  ],
+  "protected_files_changed": [],
+  "original_count": 531,
+  "notes": [
+    "30개 결과표 중 일부는 실행된 세 스크립트가 생성한 결과이고, 미실행 단계의 표는 임시 폴더에 복사된 전달본이다. 전체 파이프라인 재현으로 해석하지 않는다.",
+    "H12i는 동률 행 정렬 순서만 다름. 셀 ID 기준 비교 시 일치.",
+    "smartcity 환경에 pyarrow가 없어 5개 전처리/EDA 실행은 import 단계에서 중단.",
+    "전국 TCN parquet는 전달되지 않았으므로 s10_1, s10_3은 재실행 불가. API 수집 스크립트는 실행하지 않음."
+  ]
+}
